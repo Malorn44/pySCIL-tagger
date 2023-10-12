@@ -1,0 +1,4495 @@
+{
+    "date": "",
+    "turns": [
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "hello",
+            "topic": "",
+            "turn_no": "1"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "hey",
+            "topic": "",
+            "turn_no": "2"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Hi, we waiting for anyone else?",
+            "topic": "US Administration",
+            "turn_no": "3"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "lauren:3",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i'm not sure, aren't there supposed to be at least 4?",
+            "topic": "",
+            "turn_no": "4"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "Hi guys,",
+            "topic": "",
+            "turn_no": "5"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "Farina:4",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "not sure",
+            "topic": "",
+            "turn_no": "6"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "ilspersonnel2:5",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "this is Samira.",
+            "topic": "",
+            "turn_no": "7"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "ilspersonnel2:5",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "hi samira",
+            "topic": "",
+            "turn_no": "8"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "ilspersonnel2",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "hello",
+            "topic": "",
+            "turn_no": "9"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "Yes, I request you to please wait for one more person to arrive.",
+            "topic": "",
+            "turn_no": "10"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "Hi",
+            "topic": "",
+            "turn_no": "11"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "nate:11",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "hey nate",
+            "topic": "",
+            "turn_no": "12"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "hey hey",
+            "topic": "",
+            "turn_no": "13"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "Hi, thanks for waiting",
+            "topic": "",
+            "turn_no": "14"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "nate:14",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Not a problem",
+            "topic": "",
+            "turn_no": "15"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "now what?",
+            "topic": "",
+            "turn_no": "16"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "Nicole:16",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "our topic is supposed to be whether or not we feel obama deserved to receive the nobel peace prize",
+            "topic": "Obama",
+            "turn_no": "17"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "So what does everyone think?",
+            "topic": "",
+            "turn_no": "18"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Maybe we could all say a quick yes/no/undecided so we know where we all stand",
+            "topic": "",
+            "turn_no": "19"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "undecided",
+            "topic": "Obama",
+            "turn_no": "20"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lauren:19",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "personally i believe he did not deserve the award",
+            "topic": "Obama",
+            "turn_no": "21"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:21",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i agree, nicole",
+            "topic": "",
+            "turn_no": "22"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lauren:19",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "undeciced, leaning toward he deserves the award",
+            "topic": "Obama",
+            "turn_no": "23"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Farina:22",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "he hasn't actually DONE anything",
+            "topic": "Obama",
+            "turn_no": "24"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "he was only in office for 9 months before he got the award",
+            "topic": "Obama",
+            "turn_no": "25"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:25",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "he wasn't able to actually achieve anything important within that time",
+            "topic": "Obama",
+            "turn_no": "26"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:26",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "exactly",
+            "topic": "Obama",
+            "turn_no": "27"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "he had some great ideas though",
+            "topic": "Obama",
+            "turn_no": "28"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:20",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I really liked the Time article about it though",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "29"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:29",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "\"This prize, to a 48-year-old freshman president, for \u201cextraordinary efforts to strengthen international diplomacy and cooperation between peoples,\u201d seemed a kind of prayer and encouragement by the Nobel committee for future endeavor and more consensual American leadership.\"",
+            "topic": "Obama",
+            "turn_no": "30"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "",
+            "link_to": "lauren:30",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I do think he was taking a step in the right direction",
+            "topic": "Obama",
+            "turn_no": "31"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "you have to look at the purpose of the award and this guy Mr. Nobel from Sweeden - his intention - i believe though, that the Nobel Peace prize came after other Nobel Prizes - and the criteria the committee considered for the winner",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "32"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:31",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "and the Nobel was a carrot on a stick to keep us moving in that direction",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "33"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:33",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yes, but in that sense he deserves it - if you look at in the context of American leadership in the past decade -",
+            "topic": "Obama",
+            "turn_no": "34"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i feel as though it's been awarded prematurely",
+            "topic": "Obama",
+            "turn_no": "35"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:35",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "based on previous accomplishments, I would agree with you Farina",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "36"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:36",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I think he did some wonderful things opening up a dialogue with other countries",
+            "topic": "Obama",
+            "turn_no": "37"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:37",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "and that's definitely in line with the Peace Prize, but I don't know if it's enough",
+            "topic": "Obama",
+            "turn_no": "38"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "and how his administration signaled a change in tone -to more cooperative relations as opposed to unilateral",
+            "topic": "Obama",
+            "turn_no": "39"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "he has instilled a renewed sense of hope in people around the world and that is wonderful",
+            "topic": "Obama",
+            "turn_no": "40"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:40",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "that's the entire purpose of the peace prize, so by your very statement - you paint a compelling argument as to why he deserves it",
+            "topic": "Obama",
+            "turn_no": "41"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:41",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "yet i feel to deserve it there needs to be some tangible outcomes",
+            "topic": "",
+            "turn_no": "42"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Farina:42",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "to his initiatives, i mean",
+            "topic": "Obama",
+            "turn_no": "43"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "Farina",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "What is a tangible outcome when we're talking about peace?",
+            "topic": "",
+            "turn_no": "44"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "you also have to consider the other candidates - the competition - basically, the peace prize is based on influence",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "45"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:45",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "you cannot create peace and cooperation among people w/o influence - and",
+            "topic": "",
+            "turn_no": "46"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:46",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "it is unlikely his competitors enjoyed the influence he did , and therefore they would be unable to match his efforts toward cooperation b/n people",
+            "topic": "Obama",
+            "turn_no": "47"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:46",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "he's showing interest in peace, but at that point in time no particular accomplishments were made",
+            "topic": "",
+            "turn_no": "48"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:47",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "this is true nate",
+            "topic": "Obama",
+            "turn_no": "49"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i feel like he deserved it but not at that point in time",
+            "topic": "Obama",
+            "turn_no": "50"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "Hi, just arrived and will catch up by reading your posts now....",
+            "topic": "",
+            "turn_no": "51"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "",
+            "link_to": "nate:47",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i agree that he has a certain influence but what has come of his initiatives as of now?",
+            "topic": "Obama",
+            "turn_no": "52"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I wonder if Nicolas Sarkozy would have made a better choice",
+            "topic": "Sarcozy",
+            "turn_no": "53"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "the article said that carter won in 1992, how many years after his presidency?",
+            "topic": "",
+            "turn_no": "54"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I was reading earlier about the Georgia/Russia conflict",
+            "topic": "Sarcozy",
+            "turn_no": "55"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:55",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "and he mediated it",
+            "topic": "Sarcozy",
+            "turn_no": "56"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:48",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "well - also - he did have accomplishments - i would assert that gaining the presidency is an accomplishment, especially representing such a historically disadvantaged group",
+            "topic": "Obama",
+            "turn_no": "57"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:57",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "he brought more people into the electorate than ever before",
+            "topic": "Obama",
+            "turn_no": "58"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:57",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "he is an historical figure already and i feel as though he will do great things as a world leader but im not convinced",
+            "topic": "Obama",
+            "turn_no": "59"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:57",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "if anything they are giving it to him because he is of a different race, and not on his character",
+            "topic": "Obama",
+            "turn_no": "60"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I'm not sure his being voted president would count as promoting international communication/peace",
+            "topic": "Obama",
+            "turn_no": "61"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I agree with the idea of looking for tangible results",
+            "topic": "",
+            "turn_no": "62"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "I do not believe he was ready to receive the peace prize",
+            "topic": "Obama",
+            "turn_no": "63"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Nicolas Sarkozy - tangible result of helping mediate that conflict successfully",
+            "topic": "Sarcozy",
+            "turn_no": "64"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:64",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "agreed",
+            "topic": "Sarcozy",
+            "turn_no": "65"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Farina:59",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "well - whether he will do great things as a leader is not really relevant - unless you want to argue that the committee awarded him the prized based on expectation, which is not actually a bad addition to the argument for why he deserves it",
+            "topic": "Obama",
+            "turn_no": "66"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Piedad C\u00f3rdoba also helped successfully mediate a conflict",
+            "topic": "Sarcozy",
+            "turn_no": "67"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "what did Sarkozy do?",
+            "topic": "Sarcozy",
+            "turn_no": "68"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "(FARC and Hugo Chavez)",
+            "topic": "",
+            "turn_no": "69"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:68",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Sarkozy mediated the Russia/Georgia conflict",
+            "topic": "Sarcozy",
+            "turn_no": "70"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "isn't the prize supposed to be awarded to someone who has displayed action to warrant a change or effort to the world..",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "71"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "Sarkozy just has sex with countless young women - that's basically his accomplishment if you ask the French people - not very related to peace across people",
+            "topic": "Sarcozy",
+            "turn_no": "72"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "nate:72",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "sex is someone's personal life, it does not impact the entire world or peace...",
+            "topic": "",
+            "turn_no": "73"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I don't think personal lives are really related to the prize",
+            "topic": "",
+            "turn_no": "74"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:73",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i agree with farina",
+            "topic": "",
+            "turn_no": "75"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:74",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "and lauren",
+            "topic": "",
+            "turn_no": "76"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Information-Request",
+            "link_to": "Nicole:75",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "they are not - yet this his only accomplishment - what professional accomplishments of Sarkoxy can you site",
+            "topic": "Sarcozy",
+            "turn_no": "77"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "nate:77",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "Sarkozy *",
+            "topic": "Sarcozy",
+            "turn_no": "78"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I was just looking through 2009 conflicts",
+            "topic": "",
+            "turn_no": "79"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:79",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "and that particular conflict seemed to actually have a resolution, which involved Sarkozy",
+            "topic": "Sarcozy",
+            "turn_no": "80"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:80",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "right, lauren",
+            "topic": "",
+            "turn_no": "81"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:80",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "he obviously made some contribution to be nominated",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "82"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Obama has not yet been involved in any actual resolutions",
+            "topic": "Obama",
+            "turn_no": "83"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "okay - so Sarkozy \"obviously\" made some contributions to be nominated - and",
+            "topic": "Sarcozy",
+            "turn_no": "84"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:83",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "obama has started new talks between palestinians and isrealis but we have yet to see any real progress",
+            "topic": "Obama",
+            "turn_no": "85"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "we should just defer to the committee's judgement bc he was nominated? yet we can't trust their judgement on the person",
+            "topic": "Sarcozy",
+            "turn_no": "86"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "nate:86",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "they actually picked to win?",
+            "topic": "Obama",
+            "turn_no": "87"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:83",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i agree with laurens recommendation so far- actual resolution is key to the prize process",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "88"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "http://en.wikipedia.org/wiki/Nicolas_Sarkozy#Middle_East",
+            "topic": "",
+            "turn_no": "89"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:88",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yes it makes sense",
+            "topic": "",
+            "turn_no": "90"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "It looks like he is trying to make steps in the Middle East too, although obviously that's not a quick resolution",
+            "topic": "",
+            "turn_no": "91"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "okay, well there is no peace in the Middle East - so we can basically discount that wikipedia link",
+            "topic": "",
+            "turn_no": "92"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:91",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "of course it won't be",
+            "topic": "",
+            "turn_no": "93"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I'm not saying he should have had the peace prize necessarily",
+            "topic": "Sarcozy",
+            "turn_no": "94"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:94",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "but just comparing Obama to someone else who seems to have more tangible results I think is useful",
+            "topic": "Obama",
+            "turn_no": "95"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:95",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "definitely",
+            "topic": "",
+            "turn_no": "96"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "and an actual resolution would include hope - you cannot devalue that - bc it is incredibly important - he definitely mobilized a segment of the population that were incredibly marginalized in the political process",
+            "topic": "Obama",
+            "turn_no": "97"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "those who have won in the past like nelson mandela have truly made peace and equality a reality for many and deserve to have won it",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "98"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:97",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "hope is key, nate, this is true",
+            "topic": "",
+            "turn_no": "99"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "I don't think Sarkozy measures up - basically i disagree there",
+            "topic": "Sarcozy",
+            "turn_no": "100"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "nate",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "nate, you mentioned earlier how the administration set a different tone, is there anyone from that administration other than Obama you place in this category of deserviing the prize?",
+            "topic": "US Administration",
+            "turn_no": "101"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "jenniferb",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "the US administration, jennifer?",
+            "topic": "US Administration",
+            "turn_no": "102"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenniferb:101",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "well - it's not really whether they should receive the prize, the idea of this chat focuses on Obama - i don't want to stray from the topic too much - but -, i wouly say proly not to answer your question directly",
+            "topic": "Obama",
+            "turn_no": "103"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:103",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I don't think it strays from the topic, Nate",
+            "topic": "",
+            "turn_no": "104"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:104",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Obama winning the prize is based on him deserving it more than anyone else in the world for 2009",
+            "topic": "Obama",
+            "turn_no": "105"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Action-Directive",
+            "link_to": "lauren:105",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "so we have to look at other people with international accomplishments",
+            "topic": "",
+            "turn_no": "106"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "nate:103",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "oh the way i saw the topic, was if we were in agreement that obama did not deserve, then we need to choose someone else that is. So, i guess i was just seeing if you had any suggeestions since some of us arent going the obama way. Not that you need to change your mind, just to get some ideas thrown around.... :)",
+            "topic": "Obama",
+            "turn_no": "107"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "- well - basically - even more than achievements in science and medicine and other categories, influence is very crucial to the Nobel Peace Prize - if you do not have influence, you can not be considered -",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "108"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:107",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Oh, you're right Jennifer",
+            "topic": "",
+            "turn_no": "109"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "nate",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "hen do you think that he may be eligible in the future and who would you pick to win this time.",
+            "topic": "",
+            "turn_no": "110"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Action-Directive",
+            "link_to": "lauren:109",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "if we decide Obama didn't deserve it, we do pick someone else",
+            "topic": "Obama",
+            "turn_no": "111"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:108",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "right- influence seems to be key, i agree",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "112"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:112",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "oh of course",
+            "topic": "",
+            "turn_no": "113"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:112",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i would say obama is ABSOUTELY on the track to win for the future",
+            "topic": "Obama",
+            "turn_no": "114"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Farina:113",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "being influential is key to success in promoting anything, let alone peace",
+            "topic": "",
+            "turn_no": "115"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "so this leaves a very small pool of eligible applicants",
+            "topic": "",
+            "turn_no": "116"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:116",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "yes, nate",
+            "topic": "",
+            "turn_no": "117"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:116",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "true",
+            "topic": "",
+            "turn_no": "118"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "and out of that handful of people, it should go to Obama - i mean who else can you think of ?",
+            "topic": "Obama",
+            "turn_no": "119"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i was looking at the list of past winners",
+            "topic": "",
+            "turn_no": "120"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "nate:119",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "and i'm sorry to say i'm not knowledgeable enough about the other possibilities",
+            "topic": "",
+            "turn_no": "121"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "jenniferb:120",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "and honestly i have not heard of many, many of them. so that makes me feel i am a little out of the loop regarding important news in todays world",
+            "topic": "",
+            "turn_no": "122"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:122",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "haha, me too, jennfer!",
+            "topic": "",
+            "turn_no": "123"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "so...there must be people out there we do not know about who are desrving.",
+            "topic": "",
+            "turn_no": "124"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "Farina:123",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i wouldn't worry about it - you shouldn't fret, haha",
+            "topic": "",
+            "turn_no": "125"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "we all seem to be typical Americans, pretty uninvolved with international news",
+            "topic": "",
+            "turn_no": "126"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i'm just making a joke - i'd be surprised if we could come up with more than a couple people between all of us",
+            "topic": "",
+            "turn_no": "127"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:126",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i know i am",
+            "topic": "",
+            "turn_no": "128"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "lauren:126",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "... guess that leaves us out of being nominated :x",
+            "topic": "",
+            "turn_no": "129"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "who was talking about science and medicine before? that was a great track!",
+            "topic": "",
+            "turn_no": "130"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenniferb:130",
+            "polarity": "",
+            "speaker": "nate",
+            "text": ": :-)",
+            "topic": "",
+            "turn_no": "131"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "lauren:129",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "hahahah lauren",
+            "topic": "",
+            "turn_no": "132"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Aren't there separate prizes for science?",
+            "topic": "",
+            "turn_no": "133"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:133",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i think so",
+            "topic": "",
+            "turn_no": "134"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I think the peace prize is really about international cooperation/peace",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "135"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i was thinking earlier about princess diana and her humanitraian efforts but i know that the deceased are not eligible....",
+            "topic": "Princess Diana",
+            "turn_no": "136"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Does anyone have a link for the previous winners?",
+            "topic": "",
+            "turn_no": "137"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:136",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, those are separate i think",
+            "topic": "",
+            "turn_no": "138"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "is there someone who picked up where she left off??",
+            "topic": "Princess Diana",
+            "turn_no": "139"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "we can just google it",
+            "topic": "",
+            "turn_no": "140"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jenniferb:139",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "it would have to be for 2009, Jennifer",
+            "topic": "",
+            "turn_no": "141"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "apparently pete seeger was nominate!",
+            "topic": "Pete Seeger",
+            "turn_no": "142"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "Farina:142",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "*nominated",
+            "topic": "",
+            "turn_no": "143"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "http://nobelprize.org/nobel_prizes/peace/laureates/index.html",
+            "topic": "",
+            "turn_no": "144"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "right- anyone in 2009 that was in the news for humanitraian relief internationally like she was?",
+            "topic": "Princess Diana",
+            "turn_no": "145"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Farina:143",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "the problem with seeger - is that although i may like him some and know some about his music, he didn't relate to a big enough cross-section of the population",
+            "topic": "Pete Seeger",
+            "turn_no": "146"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:146",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "oh definitely not nate",
+            "topic": "Pete Seeger",
+            "turn_no": "147"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:147",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i agree",
+            "topic": "Princess Diana",
+            "turn_no": "148"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:136",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah - i'd say Diana would be a good pick",
+            "topic": "",
+            "turn_no": "149"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i know her son does work like her....but there must be someone else who has been around doing this for longer and has more influence",
+            "topic": "Princess Diana",
+            "turn_no": "150"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "jenniferb:150",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "oooh what about current energy or conservation efforts? don henley hehehe",
+            "topic": "",
+            "turn_no": "151"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenniferb:150",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "not her son - nobody really relates to him",
+            "topic": "Princess Diana",
+            "turn_no": "152"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "red cross... again",
+            "topic": "",
+            "turn_no": "153"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "this is really tough... even though i don't agree wth obama receiving it, it's so difficult to think of someone as well known as him",
+            "topic": "Obama",
+            "turn_no": "154"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i can only think of americans- i'm really bad at this-- there are certainly international people",
+            "topic": "",
+            "turn_no": "155"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i'd say he deserves it - there's definitely no other American more deserving , that's even easier to conclude i think",
+            "topic": "Obama",
+            "turn_no": "156"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:156",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "nope!",
+            "topic": "",
+            "turn_no": "157"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I was really impressed by Sima Samar",
+            "topic": "Sima Samar",
+            "turn_no": "158"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "http://en.wikipedia.org/wiki/Sima_Samar",
+            "topic": "",
+            "turn_no": "159"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "so Farina, you really think there were more deserving Americans?",
+            "topic": "",
+            "turn_no": "160"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "why does need to be american??",
+            "topic": "",
+            "turn_no": "161"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jenniferb:161",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "they don't",
+            "topic": "",
+            "turn_no": "162"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i think were a lil bias",
+            "topic": "",
+            "turn_no": "163"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:158",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "not so much for 2009, but for her lifetime achievements",
+            "topic": "",
+            "turn_no": "164"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:160",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i don't think there were, nate",
+            "topic": "",
+            "turn_no": "165"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:165",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, we agree on that - that's good farina :-)",
+            "topic": "",
+            "turn_no": "166"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "americans are so self-involved most of the time... that doesnt lead to world peace!",
+            "topic": "",
+            "turn_no": "167"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "what are the criteria for being nominated? i cant find it yet",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "168"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "its a shame that deceased people do not qualify",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "169"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "see - with Sima Samar -",
+            "topic": "Sima Samar",
+            "turn_no": "170"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:170",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "basically she's very deserving of some prize - but i think her focus is too narrow",
+            "topic": "",
+            "turn_no": "171"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:171",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I would agree if it weren't for where she is located",
+            "topic": "Sima Samar",
+            "turn_no": "172"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:172",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Afghanistan is a microcosm of politics right now, and social improvements there would have a ripple effect",
+            "topic": "Sima Samar",
+            "turn_no": "173"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:173",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "(hopefully)",
+            "topic": "Sima Samar",
+            "turn_no": "174"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:174",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I like the idea of grassroots, too",
+            "topic": "Sima Samar",
+            "turn_no": "175"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "what was the Iranian journalist's name who was killed not long ago?",
+            "topic": "",
+            "turn_no": "176"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "Farina:176",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Omid Reza Mir Sayafi?",
+            "topic": "",
+            "turn_no": "177"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Action-Directive",
+            "link_to": "lauren:177",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "http://globalvoicesonline.org/2009/03/19/omid-reza-mir-sayafi-iranian-blogger-dies-in-prison/",
+            "topic": "",
+            "turn_no": "178"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lauren:177",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yes - and the U.S. still creates a model that many struggling nations emulate, the U.S. still has influence, albeit it waning and declining - so to elect to an individual of African heritage, perhaps the most demonized and disadvantaged group in our national history, was really encouraging to the rest of the world - creating an incredible ripple effect",
+            "topic": "",
+            "turn_no": "179"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:179",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "good argument Nate",
+            "topic": "",
+            "turn_no": "180"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:177",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "I'm thinking of a woman, she was quite an activist as well",
+            "topic": "",
+            "turn_no": "181"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Farina:181",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i'm trying to search google but can't find anything",
+            "topic": "",
+            "turn_no": "182"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "oh wait",
+            "topic": "",
+            "turn_no": "183"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "lauren:183",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I think there was a woman who was... Egyptian?",
+            "topic": "",
+            "turn_no": "184"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:184",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I may be getting mixed up",
+            "topic": "",
+            "turn_no": "185"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "lauren:184",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "perhaps... i'll keep loking",
+            "topic": "",
+            "turn_no": "186"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "Farina:186",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "loking, rather",
+            "topic": "",
+            "turn_no": "187"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "Farina:187",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "or not",
+            "topic": "",
+            "turn_no": "188"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "unfortunately - it's difficult for women to receive the peace prize - bc of sexism, they are still not as influential as men on the international scale, which is different than the domestic scale",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "189"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "wow- gandhi was never awarded, but nominated 12 times i just read",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "190"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:189",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "that's truly unfortunate, as women account for over half of the world's population!",
+            "topic": "",
+            "turn_no": "191"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenniferb:190",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I saw that earlier!",
+            "topic": "",
+            "turn_no": "192"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:192",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "the year he was assassinated, they chose not to give it to anyone",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "193"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "a head of a major state is a good prerequisite for the prize, but i'm sure maybe even most of the winners were not in this category - i don't really know",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "194"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i still dont know who to \"nominate\" bc i dont know what the person needs to have done or when",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "195"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "lauren:193",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "very interesting",
+            "topic": "",
+            "turn_no": "196"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "do they need to have done sth of sigificance in the year it is being awarded?",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "197"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Offer-Commit",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i could just find the criteria for the sweedish committee, but i'm kind of lazy",
+            "topic": "",
+            "turn_no": "198"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenniferb:197",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "bc otherwise there must be so nany to choose from (whom we do not know yet) who has been working toward peace efforts for a period of time",
+            "topic": "",
+            "turn_no": "199"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "it is supposed to be something from 2009",
+            "topic": "",
+            "turn_no": "200"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "lauren:200",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "ah",
+            "topic": "",
+            "turn_no": "201"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenniferb:201",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i",
+            "topic": "",
+            "turn_no": "202"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "although a lifetime of achievement seems to be there for many of these people too",
+            "topic": "",
+            "turn_no": "203"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:203",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Gore - eh, not so much",
+            "topic": "Gore",
+            "turn_no": "204"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Offer-Commit",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i'm going to google 2009 current events with key words Lol",
+            "topic": "",
+            "turn_no": "205"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenniferb:205",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "like humanitarianism",
+            "topic": "",
+            "turn_no": "206"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "its a period of time i think - its proly not awarded annually, maybe every four years",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "207"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:204",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "gore was definitely deserving i'd say",
+            "topic": "",
+            "turn_no": "208"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "are we all in agreement that obama did not deserve the peace prize before we get into deciding who does?",
+            "topic": "Obama",
+            "turn_no": "209"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "Nicole:209",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "ahh good question",
+            "topic": "",
+            "turn_no": "210"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "it's too unrealistic to award it each year",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "211"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "Nicole:209",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i do not find obama deserving (yet)",
+            "topic": "Obama",
+            "turn_no": "212"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:209",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "nah, i think he deserves it",
+            "topic": "Obama",
+            "turn_no": "213"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:212",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i believe it does not deserve it yet as well",
+            "topic": "Obama",
+            "turn_no": "214"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "basically - i concur with the sweedish committee - but not with anyone here apparently",
+            "topic": "",
+            "turn_no": "215"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "nate:215",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "216"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "nate:215",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "sorry nate :)",
+            "topic": "",
+            "turn_no": "217"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "nate:215",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "sorry",
+            "topic": "",
+            "turn_no": "218"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "Nicole:209",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I was against Obama winning it before",
+            "topic": "Obama",
+            "turn_no": "219"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "lauren:219",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "and still lean towards that, but undecided",
+            "topic": "Obama",
+            "turn_no": "220"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "Nicole:209",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i was VERY surprised when i found out he had won",
+            "topic": "Obama",
+            "turn_no": "221"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenniferb:217",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "it's okay - i'm not crushed, haha - the issue of course, is that we don't really get to decide - although it's kind of a fun exercicse",
+            "topic": "",
+            "turn_no": "222"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:221",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "so was I",
+            "topic": "",
+            "turn_no": "223"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:221",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "farina- me too.. and to boot, he was surprised too!",
+            "topic": "Obama",
+            "turn_no": "224"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:224",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "he was humbled for sure",
+            "topic": "Obama",
+            "turn_no": "225"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:225",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i know! his statement is great",
+            "topic": "Obama",
+            "turn_no": "226"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:222",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "agreed- sorta fun and challenging which is cool",
+            "topic": "",
+            "turn_no": "227"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:225",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yes, even he himself didnt believe he deserved it",
+            "topic": "Obama",
+            "turn_no": "228"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "Farina:226",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "he can't exactly go out there and be like \"yeah, of course it's me - i run things, etc.\"",
+            "topic": "Obama",
+            "turn_no": "229"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:229",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "he was truly humbled and should be i think",
+            "topic": "Obama",
+            "turn_no": "230"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "nate",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "question Nate",
+            "topic": "",
+            "turn_no": "231"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:231",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "you're pro-Obama in this debate and have mostly cited the fact that he was elected",
+            "topic": "Obama",
+            "turn_no": "232"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "it looks like it's an annual prize, i have to eat my words on that - i was too lazy to check it up",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "233"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "lauren:232",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "is that your primary reason for thinking he deserves the prize?",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "234"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "lauren:234",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "or also because of his outreach to open international talks",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "235"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:235",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "good point",
+            "topic": "",
+            "turn_no": "236"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:235",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "Lauren, i wouldn't make it into a pro or anti-Obama - remember, we're not trying to politicize this",
+            "topic": "Obama",
+            "turn_no": "237"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "nate:237",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "if you'd like to see my reason, please scroll backward on the chat transcript",
+            "topic": "",
+            "turn_no": "238"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:237",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I did specify in this debate",
+            "topic": "",
+            "turn_no": "239"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:233",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "it is yearly and can be awarded not only to indivudals but groups also",
+            "topic": "",
+            "turn_no": "240"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:239",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I wasn't sure from what you'd said previously",
+            "topic": "",
+            "turn_no": "241"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "lauren:241",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "and was wondering which was more important in your decision-making",
+            "topic": "",
+            "turn_no": "242"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "lauren:242",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i hadn't signed in yet, my apologies",
+            "topic": "",
+            "turn_no": "243"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:240",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, a lot of years it is shared - which is often the case for other categories of the award",
+            "topic": "",
+            "turn_no": "244"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "so - if he really doesn't deserve it - why do you think it was awarded to him? bc they don't have to bow to the U.S., that's for sure - i suppose this question strays from the topic, but to a certain extent i defer to their judgement and expertise",
+            "topic": "Obama",
+            "turn_no": "245"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "nate:245",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "wondering which of what?",
+            "topic": "",
+            "turn_no": "246"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:246",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "a) that he was elected (which is historically significant and awesome) or b) his engagement with the international community",
+            "topic": "Obama",
+            "turn_no": "247"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:245",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "nate- my view on it is for \"hope\" and a \"possibility for big change\"",
+            "topic": "Obama",
+            "turn_no": "248"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenniferb:248",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "which are great reasons",
+            "topic": "",
+            "turn_no": "249"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:245",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i think the fact that he was elected, has opened up avenues for peace talks to begin, has initiated many bills (like for healthcare) in the US, and that he instilled hope in a population that was waning before he cam einto office all contributed",
+            "topic": "Obama",
+            "turn_no": "250"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:245",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i believe his presidency has effected the world tremendously, in social issues, but i believe the peace prize could have had a better candidate. who i am not sure. he has had a lot of great ideas about how to regulate and achieve peace. but at that point in time no progress was made. there has to be someone in the world who made more achievements then the few hopes obama had",
+            "topic": "Obama",
+            "turn_no": "251"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Farina:250",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "he truly is a magnanimous figure in the world, he himself gives peoplehope",
+            "topic": "Obama",
+            "turn_no": "252"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "what about nelson mandela (i'm drifting from the current chat)",
+            "topic": "",
+            "turn_no": "253"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lauren:247",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "oh, i'd say both actually - bc his engagement with the international community is very well documented - for example, his speech in Berlin had the most powerful nation in the EU believing they had an ally in the U.S. - and his gestures to the Muslim would could arguably had an impact on potential young Musliim fundamentalists -",
+            "topic": "Obama",
+            "turn_no": "254"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:254",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "extending the olive branch to this group, instead of ostracizing them really could have had profound impact on the overall stability of that volatile area",
+            "topic": "Obama",
+            "turn_no": "255"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:254",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "the talking tour he did was amazing",
+            "topic": "Obama",
+            "turn_no": "256"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "lauren:256",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I think that's probably the reason he won",
+            "topic": "Obama",
+            "turn_no": "257"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:257",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I come back to the tangibility argument we had earlier",
+            "topic": "Obama",
+            "turn_no": "258"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "lauren:258",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "but like you said - how do you quantify peace?",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "259"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "lauren:259",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "or hope?",
+            "topic": "",
+            "turn_no": "260"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Action-Directive",
+            "link_to": "lauren:260",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "(you = Nate)",
+            "topic": "",
+            "turn_no": "261"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:261",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "exactly, it's really difficult to gauge these things",
+            "topic": "",
+            "turn_no": "262"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "lauren",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "so basically - you think that his speeches was just \"talking\" and that he pulled the wool over the eyes of this distinguished Swedish panel, but that you're too smart for that?",
+            "topic": "Obama",
+            "turn_no": "263"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "nate:263",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "264"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Farina:262",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "however, i think that just the reactions to obama being elected seen around the world at the time were quite touching and did mark a new era in hope",
+            "topic": "Obama",
+            "turn_no": "265"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:264",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "not in those terms, that's a bit silly",
+            "topic": "",
+            "turn_no": "266"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:266",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "well, when it comes down to it - i just think they know that they're doing and i'd trust them more than the average person i find on the street, including myself",
+            "topic": "",
+            "turn_no": "267"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i believe in obama and believe the committee was justified in their choosing- since they chose him as a group- but i believe they placed an amount of pressure on someone who just arrived into the public spotlight",
+            "topic": "Obama",
+            "turn_no": "268"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenniferb:268",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "without having had the change to place words into action",
+            "topic": "Obama",
+            "turn_no": "269"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:266",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "on the other hand",
+            "topic": "",
+            "turn_no": "270"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "jenniferb:269",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "\"the chance to place words into action\"",
+            "topic": "",
+            "turn_no": "271"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:270",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "when you're president, words are action",
+            "topic": "",
+            "turn_no": "272"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:271",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i agree with jennifer",
+            "topic": "",
+            "turn_no": "273"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:272",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "words become action- yes. healthcare hasnt been revamped yet, but it is coming",
+            "topic": "Obama",
+            "turn_no": "274"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:274",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "hopefully!",
+            "topic": "",
+            "turn_no": "275"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenniferb:274",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "becuase of him",
+            "topic": "Obama",
+            "turn_no": "276"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "jenniferb:276",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": ":)",
+            "topic": "",
+            "turn_no": "277"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenniferb:268",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "sure - it could have been calculated - to hold him accountable and pull him into the international spotlight more - but they still bestowed this honor on him, and it would tarnish their reputation if they awarded it exclusively for this reason - with all the pride they have for their country, i don't think they would do this with what is at stake - although it could have been a factor",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "278"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:272",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "what presidents promise and what they do are two different categories",
+            "topic": "",
+            "turn_no": "279"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:278",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "people wouldbt have a problem with obama being voted prize winner down the road bc they could look back and list the things he put into action (rather than just his precense)",
+            "topic": "Obama",
+            "turn_no": "280"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:280",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I hope so",
+            "topic": "",
+            "turn_no": "281"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:279",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "Exactly, this is why i'm still not 100% convinced he should have received it",
+            "topic": "Obama",
+            "turn_no": "282"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:282",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "right",
+            "topic": "",
+            "turn_no": "283"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "the prize winner should not be looked upon with doubt- has this happened in the past i wonder? so much contracversy and disagreement?",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "284"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:284",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I'm sure!",
+            "topic": "",
+            "turn_no": "285"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "lauren:285",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "especially when you're looking at an international award",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "286"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i wouldnt marry someone if there was any doubt. lol just a strange analogy.",
+            "topic": "",
+            "turn_no": "287"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "there's always going to be one country that disagrees with an award",
+            "topic": "",
+            "turn_no": "288"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:282",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "he was a new comer.. it was too early",
+            "topic": "Obama",
+            "turn_no": "289"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:289",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah - proly not - but a lot of times there is disagreement, just maybe not as much - the other issue, is that people usually don't pay attention unless it's someone we all have heard of or can relate to - i mean how many people know who won the nobel prize previously?",
+            "topic": "",
+            "turn_no": "290"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:290",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "true- maybe the committee wanted people to pay attention to him",
+            "topic": "Obama",
+            "turn_no": "291"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "jenniferb:291",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": ":)",
+            "topic": "",
+            "turn_no": "292"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:290",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "thats true nate. i can;t honestly say i know much about many of the past recipients; i just let it go",
+            "topic": "",
+            "turn_no": "293"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:293",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, that is possible actually - i def. think - on the other hand, he is the U.S. president and is already noticed and scrutinized a lot",
+            "topic": "",
+            "turn_no": "294"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:294",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "americans aren't really loved by the world like we'd like to think",
+            "topic": "",
+            "turn_no": "295"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "maybe for the international community though, they learned about him more and will hold him accountable more",
+            "topic": "Obama",
+            "turn_no": "296"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "it was soooo strange of a choice in my mind and i'm sooo out of world news loop hehehe",
+            "topic": "Obama",
+            "turn_no": "297"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Offer-Commit",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Just looking through some of the previous winners",
+            "topic": "",
+            "turn_no": "298"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:298",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Wangari Maathai won in 2004",
+            "topic": "",
+            "turn_no": "299"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:299",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "she has a long list of amazing achievements",
+            "topic": "",
+            "turn_no": "300"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Action-Directive",
+            "link_to": "lauren:300",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "http://nobelprize.org/nobel_prizes/peace/laureates/2004/maathai-bio.html",
+            "topic": "",
+            "turn_no": "301"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:301",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I feel like Obama's not there (yet)",
+            "topic": "Obama",
+            "turn_no": "302"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:302",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "(hopefully yet)",
+            "topic": "Obama",
+            "turn_no": "303"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:295",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, americans aren't always loved - so this can fuel disagreement if the arguments are supported",
+            "topic": "",
+            "turn_no": "304"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:304",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "oh definitely",
+            "topic": "",
+            "turn_no": "305"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "lauren:300",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "yeah- i like to see a list for a winner of a prize",
+            "topic": "",
+            "turn_no": "306"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenniferb:306",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "like htis",
+            "topic": "",
+            "turn_no": "307"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i believe too much emphasis was placed on his race, rather then the efforts he made towards peace",
+            "topic": "Obama",
+            "turn_no": "308"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenniferb:307",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "list of achievements",
+            "topic": "",
+            "turn_no": "309"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:308",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i dont think so - bc his achievements were listed - and i'd argue that race can't be over emphasized, bc it is so important, it's so determining",
+            "topic": "Obama",
+            "turn_no": "310"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:308",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "oh i dont look at it that way nicole, but rather emphasis on possibilities he may offer the world with not only his race but his background and list of \"wants\" for the us and world",
+            "topic": "Obama",
+            "turn_no": "311"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:311",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i agree, but i feel that may have been one of the reasons he was even in consideration for the award.. especially so early in his presidency",
+            "topic": "Obama",
+            "turn_no": "312"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:312",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I disagree",
+            "topic": "",
+            "turn_no": "313"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "Nicole:312",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah - of course it was a reason",
+            "topic": "",
+            "turn_no": "314"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "he's a symbol",
+            "topic": "Obama",
+            "turn_no": "315"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:312",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I think that was of national importance, it shows how far we've come in some ways",
+            "topic": "Obama",
+            "turn_no": "316"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:315",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "certainly a symbol",
+            "topic": "",
+            "turn_no": "317"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "he has made history in that respect",
+            "topic": "Obama",
+            "turn_no": "318"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:316",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "but internationally, not really",
+            "topic": "Obama",
+            "turn_no": "319"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:319",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i disagree",
+            "topic": "",
+            "turn_no": "320"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Farina:320",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "people around the world were touched by his election",
+            "topic": "Obama",
+            "turn_no": "321"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Farina:321",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I think that's more about who he is, than what color his skin happens to be",
+            "topic": "Obama",
+            "turn_no": "322"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:322",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "he's an amazing, powerful speaker",
+            "topic": "Obama",
+            "turn_no": "323"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:323",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "and a force for change",
+            "topic": "Obama",
+            "turn_no": "324"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:318",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "it shows how far america has come in history, what does that have to do with world peace",
+            "topic": "",
+            "turn_no": "325"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:325",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "no - it has international consequences - to see someone ascend the social structure from such a poor, victimized segment of the population - all the way to the presidency - and talk about things like cooperation and working t!\n ogether, that sets a precedent for his presidency and gives other nations a reason to hope for the U.S.'s cooperation",
+            "topic": "Obama",
+            "turn_no": "326"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i wonder why they dont release nominees until 50 yrs later",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "327"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:326",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Obama was neither poor or victimized though",
+            "topic": "Obama",
+            "turn_no": "328"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:326",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "exactly, nate",
+            "topic": "",
+            "turn_no": "329"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:328",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "actually , he was very poor",
+            "topic": "Obama",
+            "turn_no": "330"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:328",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "he's no better a representative of that than I would be a representative of a homeless person",
+            "topic": "Obama",
+            "turn_no": "331"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:331",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "he was considered middle class growing up and went to Harvard",
+            "topic": "Obama",
+            "turn_no": "332"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "nate:330",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "and how many black people do you know who are wealthy? not many - i mean the average income for a black individual is a joke compared to what it is for a white, that's just a fact",
+            "topic": "Obama",
+            "turn_no": "333"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:333",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "you can't argue that",
+            "topic": "",
+            "turn_no": "334"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:334",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I'm not arguing racism",
+            "topic": "",
+            "turn_no": "335"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:335",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I'm arguing Obama as an \"everyman\"",
+            "topic": "Obama",
+            "turn_no": "336"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:336",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "no president ever, as far I'm concerned, has been an \"everyman\"",
+            "topic": "",
+            "turn_no": "337"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:337",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "his family didn't have any money - they basically had nothing, some intellect - but no money",
+            "topic": "Obama",
+            "turn_no": "338"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:337",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "if they were, they wouldn't have the money to get elected",
+            "topic": "Obama",
+            "turn_no": "339"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:339",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "or the time away from work",
+            "topic": "",
+            "turn_no": "340"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:338",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "he wasn't poor",
+            "topic": "Obama",
+            "turn_no": "341"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:341",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "he had money all his life",
+            "topic": "Obama",
+            "turn_no": "342"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:342",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "hence his presidency",
+            "topic": "Obama",
+            "turn_no": "343"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:343",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "well - why don't you read a paragraph biography on the early life of our president - the guy was lower class, maybe lower middle class - that's a sharp contrast from any",
+            "topic": "Obama",
+            "turn_no": "344"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:344",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "other president i can think of , especially in modern history",
+            "topic": "Obama",
+            "turn_no": "345"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i do see him as differetn from past presidents- hence a feeling of hope for the country",
+            "topic": "Obama",
+            "turn_no": "346"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenniferb:346",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "economically-wise",
+            "topic": "",
+            "turn_no": "347"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenniferb:347",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "anyone can do anything in this country",
+            "topic": "",
+            "turn_no": "348"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "their family couldn't afford to send him to college - so that's quite a bit different than someone with blue blood who is just born and does nothing",
+            "topic": "Obama",
+            "turn_no": "349"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:349",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "if circumstance are allowing overall",
+            "topic": "",
+            "turn_no": "350"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "can we focus on the peace prize",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "351"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "so his symbolism got him the prize- are we in agreement on this bit?",
+            "topic": "Obama",
+            "turn_no": "352"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenniferb",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "\"anyone can do anything in this country\" - that's the most naive statement i've heard in a long time",
+            "topic": "",
+            "turn_no": "353"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:353",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "right - why don't we just go out and become VPs at bank of america",
+            "topic": "",
+            "turn_no": "354"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenniferb:352",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I disagree with that Jennifer",
+            "topic": "",
+            "turn_no": "355"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:353",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i wouldnt say that a certain individual is incapable of causing a change for him/herself",
+            "topic": "",
+            "turn_no": "356"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenniferb:356",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "anbody cannot do anything in this country!",
+            "topic": "",
+            "turn_no": "357"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "we haven't come to any conclusions yet?",
+            "topic": "",
+            "turn_no": "358"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "according to the committee, Obama won \"for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples\"",
+            "topic": "Obama",
+            "turn_no": "359"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:358",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "no conclusion, correct",
+            "topic": "",
+            "turn_no": "360"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:358",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "no conclusion",
+            "topic": "",
+            "turn_no": "361"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I think we all still feel exactly as we did coming in",
+            "topic": "",
+            "turn_no": "362"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Acknowledge",
+            "link_to": "lauren:362",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "363"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:363",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "politics",
+            "topic": "",
+            "turn_no": "364"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "lauren:364",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "*throws hands in air*",
+            "topic": "",
+            "turn_no": "365"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:365",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yep",
+            "topic": "",
+            "turn_no": "366"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "lauren:365",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "367"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:366",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i hate political debates, no one wins",
+            "topic": "",
+            "turn_no": "368"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "well, since we came to a standstill",
+            "topic": "",
+            "turn_no": "369"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah - this is going to be tough if we have to come to some consensus - i mean, it's a divisive topic, that's the point and why it was selected -",
+            "topic": "",
+            "turn_no": "370"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "tough topic",
+            "topic": "",
+            "turn_no": "371"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "do we have to come to some conclusion? or can we just agree to disagree?",
+            "topic": "",
+            "turn_no": "372"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "lauren:369",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "maybe we could talk about some of the other nominees",
+            "topic": "",
+            "turn_no": "373"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lauren:373",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, we can do that",
+            "topic": "",
+            "turn_no": "374"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "Nicole:372",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I think we can agree to disagree at this point",
+            "topic": "",
+            "turn_no": "375"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "nate:370",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "consensus is an illusion most of the time anyway... there are always those in disagreement",
+            "topic": "",
+            "turn_no": "376"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "Farina:376",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "mmhmm",
+            "topic": "",
+            "turn_no": "377"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Farina",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "good talk anyhow i suppose- made me think and rethink",
+            "topic": "",
+            "turn_no": "378"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenniferb:378",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i'm still thinking lol",
+            "topic": "",
+            "turn_no": "379"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "jenniferb:379",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "380"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "my opinion hasn't swayed; i still am not convinced, but i do think this is quite the interesting topic",
+            "topic": "",
+            "turn_no": "381"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:381",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "im opinion is the same as well",
+            "topic": "",
+            "turn_no": "382"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:382",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "right- i still have my same opinion as when i got here",
+            "topic": "Obama",
+            "turn_no": "383"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i don't think this chat worked out as planned",
+            "topic": "",
+            "turn_no": "384"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:384",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "well, I think the idea is more to study the dynamics of the chat",
+            "topic": "",
+            "turn_no": "385"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i truly wish i wasmore knowledgeable and could at least nominate another person!",
+            "topic": "",
+            "turn_no": "386"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Farina:386",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "not for us to overthrow the Nobel committee",
+            "topic": "Nobel Peace Prize",
+            "turn_no": "387"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "no final agreement- as with most political related topic as someone already mentioned",
+            "topic": "",
+            "turn_no": "388"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "Farina:386",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "One of the links we were emailed listed some of the other nominees, Farina",
+            "topic": "",
+            "turn_no": "389"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Action-Directive",
+            "link_to": "lauren:389",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "http://www.nowpublic.com/world/nobel-peace-prize-nominees-2009-list-not-available-till-2059",
+            "topic": "",
+            "turn_no": "390"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:385",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "it proly did i think - bc they want to see how people communicate online, how some people are overbearing and strongly opinionated - or stubborn - or those who yield and are more easily persuaded - i wouldn't assume it's been a failure or a success",
+            "topic": "",
+            "turn_no": "391"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:391",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "we pretty much followed the directions as far as i know",
+            "topic": "",
+            "turn_no": "392"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "lauren:390",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "yes i reviewed that but don't know enough about anyone to back them as a viable candidate",
+            "topic": "",
+            "turn_no": "393"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:392",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "agreed, Nate",
+            "topic": "",
+            "turn_no": "394"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i think we've had a good chat, i'm eager to see just how much obama gets \"done\" during his presidency and i hope for the best just like evryone else",
+            "topic": "Obama",
+            "turn_no": "395"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Farina:395",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i need health insurance! haha!",
+            "topic": "",
+            "turn_no": "396"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Farina:396",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "same",
+            "topic": "",
+            "turn_no": "397"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Farina:393",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "oh, yeah - inrid bettencourt - a lot of personal and political courage to fight graft - her life was in the balance with drug cartels , yet she advocated for groups that were being exploited - she easily could have",
+            "topic": "",
+            "turn_no": "398"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:398",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "just taken the bribes and kickbacks the cartels offered",
+            "topic": "",
+            "turn_no": "399"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i could just make a comment about how people didnt like my earlier comment- i believe that if people dont think or behave positively, there is no chance for overcoming obstacles or challenges- i just like to believe that things are possible even if not at arms length.",
+            "topic": "",
+            "turn_no": "400"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenniferb:400",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "wish the world was like that",
+            "topic": "",
+            "turn_no": "401"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "jenniferb",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "what comment was that Jennifer?",
+            "topic": "",
+            "turn_no": "402"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": ";) gotta try even if i dont see it happen",
+            "topic": "",
+            "turn_no": "403"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lauren:402",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "about my view on people can do anything",
+            "topic": "",
+            "turn_no": "404"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:403",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yes, i agree - we can write our own destiny, be captain of our own fait - we have control, and this is an appealing idea - but with someone like Obama or nearly most people for that matter - you're limited by the place you are in society at the time of your birth, people usually don't climb much higher",
+            "topic": "",
+            "turn_no": "405"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:405",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i have personal experience there- or witnessed rather- and it can be remarkable",
+            "topic": "",
+            "turn_no": "406"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "nate:405",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "fate *",
+            "topic": "",
+            "turn_no": "407"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:407",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "your fate is yours",
+            "topic": "",
+            "turn_no": "408"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "jenniferb:408",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "409"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenniferb:406",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i mean you can improve your lot and position , for sure - countless people do - but usually you're not going to go from middle to upper class and be able to touch all these lives",
+            "topic": "",
+            "turn_no": "410"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:410",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "i dont disagree, life is tough",
+            "topic": "",
+            "turn_no": "411"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:410",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "i agree nate. while we try to think that we live in a classless society, we don't. it's much more difficult to increase your status when u start from the bottom",
+            "topic": "",
+            "turn_no": "412"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:410",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "I think our society has a few structures built in to try and level the playing field",
+            "topic": "",
+            "turn_no": "413"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:410",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "change has occurred though, and its because the people achieved what most people believed to be impossible",
+            "topic": "",
+            "turn_no": "414"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:413",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "although it's sort of like putting bandaids on a gushing wound",
+            "topic": "",
+            "turn_no": "415"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:415",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "the underlying structure is still pretty hard to overcome",
+            "topic": "",
+            "turn_no": "416"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "lauren:416",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "structure for sure- the foundation is difficult to change even if one or two are able",
+            "topic": "",
+            "turn_no": "417"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:416",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah - there are deep structural factors",
+            "topic": "",
+            "turn_no": "418"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:413",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "our society doesn't really enable equal opportunity for all, no matter the structures that are present",
+            "topic": "",
+            "turn_no": "419"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Farina:419",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "structural factors like poverty and inequality - but it reflects really well on the U.S. - that someone succeeded like this, and that it gave hope to immigrants and people looking for a more peaceful, prosperous, productive life coming to American soil",
+            "topic": "",
+            "turn_no": "420"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:420",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i agree",
+            "topic": "",
+            "turn_no": "421"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:420",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "yes- public figures make differences",
+            "topic": "",
+            "turn_no": "422"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenniferb:422",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "well - i mean this bettencourt lady worked to stop widespread corruption in south america -",
+            "topic": "",
+            "turn_no": "423"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:423",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "so this goes a long way in bringing about peace - whereas most other people succumb to the pressure and the threats on their life in this region of south america where mass killings and kidnappings are supposedly common place for anyone who opposes the cartels, although this could be sensationalized too - i dont really know for sure",
+            "topic": "",
+            "turn_no": "424"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:424",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "she said she wants to become the president of Columbia",
+            "topic": "",
+            "turn_no": "425"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:425",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "so maybe we'll be seeing more of her",
+            "topic": "",
+            "turn_no": "426"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:426",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "hope so",
+            "topic": "",
+            "turn_no": "427"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:424",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "it does show true integrity to oppose such powerful groups that could really murder you and get away with it. i hope we do here more about her",
+            "topic": "",
+            "turn_no": "428"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "are we nominating her for the peace prize?",
+            "topic": "",
+            "turn_no": "429"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "Nicole:429",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "thanks for bringing up",
+            "topic": "",
+            "turn_no": "430"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "Nicole:429",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, hopefuly she stays alive too - i mean it proly sounds ridiculous - but it almost sounds like politicians like her are really targeted by the opposition and sometimes even assassinated bc they want to change things too much and stop the killings",
+            "topic": "",
+            "turn_no": "431"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:431",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "makes sense",
+            "topic": "",
+            "turn_no": "432"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:432",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "if killing is the tool of choice",
+            "topic": "",
+            "turn_no": "433"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:431",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "oh yeah nate. this isn't ridiculous at all, it happens all over the world and someone that rises up and stands against such power is powerful him/herself",
+            "topic": "",
+            "turn_no": "434"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:433",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "when someone stands in your way, or cries out too loud, you kill them",
+            "topic": "",
+            "turn_no": "435"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "soo the chats almost coming to a end: so lets sum up",
+            "topic": "",
+            "turn_no": "436"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "lauren:435",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "Obama:",
+            "topic": "Obama",
+            "turn_no": "437"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lauren:435",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah - but on the other hand - courage isn't the only factor in determining the winner of the peace prize - she did face formidable opposition and threats on her life - but even after all this, she still has to have a measurable impact",
+            "topic": "",
+            "turn_no": "438"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lauren:437",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "all against, except 1 for",
+            "topic": "Obama",
+            "turn_no": "439"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:438",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "agreed nate",
+            "topic": "",
+            "turn_no": "440"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lauren:439",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "ok sounds good",
+            "topic": "",
+            "turn_no": "441"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "agreed - i say he deserves it",
+            "topic": "Obama",
+            "turn_no": "442"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "good chat! thanks all",
+            "topic": "",
+            "turn_no": "443"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "thank you for your lively conversation - i will think about people like bettencourt and remember her - have a good night",
+            "topic": "",
+            "turn_no": "444"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "went quickly",
+            "topic": "",
+            "turn_no": "445"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "lauren:445",
+            "polarity": "",
+            "speaker": "lauren",
+            "text": "good night all",
+            "topic": "",
+            "turn_no": "446"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenniferb",
+            "text": "g'night",
+            "topic": "",
+            "turn_no": "447"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "good night everyone",
+            "topic": "",
+            "turn_no": "448"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Farina",
+            "text": "yup, it wasa great chat! have a good night!",
+            "topic": "Sarcozy",
+            "turn_no": "449"
+        }
+    ]
+}

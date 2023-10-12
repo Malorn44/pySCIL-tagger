@@ -1,0 +1,1615 @@
+{
+    "date": "",
+    "turns": [
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "HEllo",
+            "topic": "",
+            "turn_no": "2"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "anyone here?",
+            "topic": "",
+            "turn_no": "3"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "kara",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "HI hara",
+            "topic": "",
+            "turn_no": "4"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "jennifer:4",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "kara",
+            "topic": "",
+            "turn_no": "5"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "jennifer:5",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "hi there",
+            "topic": "",
+            "turn_no": "6"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "kara:6",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "hows it going?",
+            "topic": "",
+            "turn_no": "7"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "kara",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "i havent received responses from chris or jamie so not sure if they are having trouble or not",
+            "topic": "",
+            "turn_no": "8"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "kara:7",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "its going well",
+            "topic": "",
+            "turn_no": "9"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "kara",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "u?",
+            "topic": "",
+            "turn_no": "10"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:10",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "fine... i have so much work to do right now",
+            "topic": "",
+            "turn_no": "11"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "kara:11",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "im stressing out a bit! haha",
+            "topic": "",
+            "turn_no": "12"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "kara",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "finals?",
+            "topic": "",
+            "turn_no": "13"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:13",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "well no im a graduate student so mostly papers... no more tests ever haha",
+            "topic": "",
+            "turn_no": "14"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "kara:14",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "but i dont know what is better really!!!",
+            "topic": "",
+            "turn_no": "15"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "Sorry for being late.",
+            "topic": "",
+            "turn_no": "16"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "",
+            "link_to": "kara:15",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "lol  i know what you mean.... i took just one grad class this semester and it was rought writing papers all the time",
+            "topic": "",
+            "turn_no": "17"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "jianhua:16",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "hi jianhua",
+            "topic": "",
+            "turn_no": "18"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "jennifer:18",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "hi",
+            "topic": "",
+            "turn_no": "19"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "looks like just the 3 of us for now- i told kara how chris and jamie havent responded in here yet since i was here",
+            "topic": "",
+            "turn_no": "20"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "my computer seems to be slow",
+            "topic": "",
+            "turn_no": "21"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:17.1",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "haha im taking FOUR!",
+            "topic": "grad school",
+            "turn_no": "22"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "jianhua:19",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "hi jianhua",
+            "topic": "",
+            "turn_no": "23"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kara:22",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "woah- that is a lot of writing!",
+            "topic": "",
+            "turn_no": "24"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jennifer",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "never met you before now..",
+            "topic": "",
+            "turn_no": "25"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "kara:23",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "hi Kara",
+            "topic": "",
+            "turn_no": "26"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kara:25",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "i havent been here with you either jianhua",
+            "topic": "",
+            "turn_no": "27"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "yes,  i am a new comer haha",
+            "topic": "",
+            "turn_no": "28"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "kara+jianhua",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "did you both get the job descrip stuff?",
+            "topic": "",
+            "turn_no": "29"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "jennifer",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "so no jme or chris huh?",
+            "topic": "",
+            "turn_no": "30"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:29",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "yah i did",
+            "topic": "",
+            "turn_no": "31"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "kara:31",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "we can start now i guess",
+            "topic": "",
+            "turn_no": "32"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:29",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "yes I just reading now",
+            "topic": "",
+            "turn_no": "33"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "kara:32",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "sure hopefully they'll get in here sooner or later",
+            "topic": "",
+            "turn_no": "34"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:29",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "i read them briefly also just  a few mins ago",
+            "topic": "",
+            "turn_no": "35"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jennifer:35",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "yeah me too... i feel like this is a weird job to have to give a resume for haha",
+            "topic": "job description",
+            "turn_no": "36"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kara:36",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "an application is enough i think",
+            "topic": "",
+            "turn_no": "37"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "kara:36",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "hiring for a cashier with no real requirements",
+            "topic": "",
+            "turn_no": "38"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kara:36",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "yeah- good point kara   since they dont say you need certain things",
+            "topic": "",
+            "turn_no": "39"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Acknowledge",
+            "link_to": "jennifer:39",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "i'm sure anyone in college could handle it",
+            "topic": "cashier",
+            "turn_no": "40"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kara:36",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "so do i, it seems that james is a good candidate.",
+            "topic": "james",
+            "turn_no": "41"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jennifer:40",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "i was a cashier in highschool for god sakes... lol",
+            "topic": "cashier",
+            "turn_no": "42"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "in the past, we all went through one resume at a time-  wanna start with james then?",
+            "topic": "",
+            "turn_no": "43"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "jennifer:43",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "44"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:43",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "yeah sure",
+            "topic": "",
+            "turn_no": "45"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "kara:45",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "james it is",
+            "topic": "",
+            "turn_no": "46"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "he's had some good work experience",
+            "topic": "james",
+            "turn_no": "47"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "jennifer:47",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "computerized business... he has some technological advancements",
+            "topic": "james",
+            "turn_no": "48"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "jennifer:47",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "mail room, ups, payroll stuff",
+            "topic": "",
+            "turn_no": "49"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Information-Request",
+            "link_to": "kara:48",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "yeah that was strange i though-  is that like a technical college or is it a high school program?",
+            "topic": "james",
+            "turn_no": "50"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:50",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "i think its a college program",
+            "topic": "",
+            "turn_no": "51"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "kara:51",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "but his jobs seem to be irrelevant to cashier position",
+            "topic": "james",
+            "turn_no": "52"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "kara:52",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "the ups and mailroom stuff has nothing to do with being a cashier",
+            "topic": "james",
+            "turn_no": "53"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "kara:53",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "yeah- nothing money related",
+            "topic": "james",
+            "turn_no": "54"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "he doesnt do anything for me   lol",
+            "topic": "james",
+            "turn_no": "55"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "wanna move to Jonathan?",
+            "topic": "",
+            "turn_no": "56"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:56",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "sure thing",
+            "topic": "",
+            "turn_no": "57"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "information-request",
+            "link_to": "kara:57",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "hes not much fun either haha , what do you think?",
+            "topic": "jonathan",
+            "turn_no": "58"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "kara:58",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "he seems similar to the other guy- nothing in a store",
+            "topic": "Jonathan",
+            "turn_no": "59"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jennifer:59",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "i think we'll come across another one with more relevant exp",
+            "topic": "",
+            "turn_no": "60"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jianhua:41",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "he was major in Computerized Business and Accounting",
+            "topic": "james",
+            "turn_no": "61"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jennifer:60",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "hopefullyyyyyy",
+            "topic": "",
+            "turn_no": "62"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jianhua:61",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "oh we moved on from him-  we're looking at Jonathan now",
+            "topic": "",
+            "turn_no": "63"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "ok who's next???",
+            "topic": "",
+            "turn_no": "64"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:64",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "danielle",
+            "topic": "",
+            "turn_no": "65"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "kara:65",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "k",
+            "topic": "",
+            "turn_no": "66"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kara:65",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "ughh... i dont like her either haha",
+            "topic": "danielle",
+            "turn_no": "67"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "kara:67",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "hm  still nothing!",
+            "topic": "",
+            "turn_no": "68"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "this job is soooo easy, but none of their resumes seem relevant",
+            "topic": "",
+            "turn_no": "69"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "kara:69",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "i totally agree",
+            "topic": "",
+            "turn_no": "70"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "hi, nobody there?",
+            "topic": "",
+            "turn_no": "71"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "oooh  susie was a receptionist!",
+            "topic": "susie",
+            "turn_no": "72"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jianhua:71",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "im here",
+            "topic": "",
+            "turn_no": "73"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jennifer:72",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "Organized the filing system for a branch office, performed general office workand made bank deposits this is from Susie",
+            "topic": "susie",
+            "turn_no": "74"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "jennifer:74",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "yeah i see that hhah",
+            "topic": "",
+            "turn_no": "75"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kara:75",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "so far so good!   LOL",
+            "topic": "susie",
+            "turn_no": "76"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "Jamie's trying",
+            "topic": "",
+            "turn_no": "77"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jennifer:74",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "bank deposits!!!",
+            "topic": "susie",
+            "turn_no": "78"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kara:78",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "yeah i like her the best so far",
+            "topic": "susie",
+            "turn_no": "79"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kara:79",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "i think she's be able to handle having a boss to communicate with like the job descrip asks for",
+            "topic": "susie",
+            "turn_no": "80"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "have difficulty connecting, anybody can help?",
+            "topic": "",
+            "turn_no": "81"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jennifer:80",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "seems like she has handled money and been in the real world",
+            "topic": "susie",
+            "turn_no": "82"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kara:82",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "me too-  like her best",
+            "topic": "susie",
+            "turn_no": "83"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kara:82",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "what a plus for a cashier position!  haha",
+            "topic": "susie",
+            "turn_no": "84"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "jennifer",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "hey jennifer we have to sign off and sign back on in a  couple mins... samira is going to restart the server ok?",
+            "topic": "",
+            "turn_no": "85"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "jianhua",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "jianhua-  did u log off and try logging in again?",
+            "topic": "",
+            "turn_no": "86"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "kara:85",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "OK",
+            "topic": "",
+            "turn_no": "87"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "",
+            "link_to": "jennifer:87",
+            "polarity": "",
+            "speaker": "kara",
+            "text": "see ya in a couple. .. wait like 4 mins",
+            "topic": "",
+            "turn_no": "88"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "conventional-opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "hi , it works now.",
+            "topic": "",
+            "turn_no": "89"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "hi jamie",
+            "topic": "",
+            "turn_no": "90"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "jennifer:90",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "Hi, Jennifer",
+            "topic": "",
+            "turn_no": "91"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "chris",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "Chris, did you make it in?",
+            "topic": "",
+            "turn_no": "92"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "seems a lot of fun takling this way",
+            "topic": "",
+            "turn_no": "93"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "kara",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "kara?",
+            "topic": "",
+            "turn_no": "94"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "chris",
+            "text": "HELLO",
+            "topic": "",
+            "turn_no": "95"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "chris:95",
+            "polarity": "",
+            "speaker": "chris",
+            "text": "I amde it",
+            "topic": "",
+            "turn_no": "96"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "chris:96",
+            "polarity": "",
+            "speaker": "chris",
+            "text": "made",
+            "topic": "",
+            "turn_no": "97"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "jennifer+jianhua",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "they have difficulty logging in, as i just did.",
+            "topic": "",
+            "turn_no": "98"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "chris",
+            "text": "It worked much better this time :)",
+            "topic": "",
+            "turn_no": "99"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "so the preparation takes lot of time, and we haven't started our discussion.",
+            "topic": "",
+            "turn_no": "100"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jamie+chris",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "kara, jianhuan, and i started a talk about the resumes",
+            "topic": "",
+            "turn_no": "101"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Offer-Commit",
+            "link_to": "jennifer:101",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "i'd like to join you, jennifer.",
+            "topic": "",
+            "turn_no": "102"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jamie:102",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "hehe   ok",
+            "topic": "",
+            "turn_no": "103"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jennifer:103",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "but i dont know if she made it back in",
+            "topic": "",
+            "turn_no": "104"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "we can talk about any one of the resumes- pick one",
+            "topic": "",
+            "turn_no": "105"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:105",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "the 1st one is ggod.",
+            "topic": "james",
+            "turn_no": "106"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "hi everyone",
+            "topic": "",
+            "turn_no": "107"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jennifer",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "i wonder if a cashier really needs so much computer skills.",
+            "topic": "james",
+            "turn_no": "108"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "",
+            "link_to": "jianhua",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "hi jian -  can you see my message here?",
+            "topic": "",
+            "turn_no": "109"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "i can't see anybody's talking",
+            "topic": "",
+            "turn_no": "110"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jamie:108",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "yeah we didnt like him so much-  no relevant experience",
+            "topic": "james",
+            "turn_no": "111"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "response-answer",
+            "link_to": "jennifer:111",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "that one and the next James seem to have no experience that would matter for a cashier",
+            "topic": "morgan",
+            "turn_no": "112"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:112.1",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "yes.",
+            "topic": "",
+            "turn_no": "113"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "hi",
+            "topic": "",
+            "turn_no": "114"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "danielle has some reception work",
+            "topic": "danielle",
+            "turn_no": "115"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "i reset the browser",
+            "topic": "",
+            "turn_no": "116"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "people tend to think the more education, the better, no matter what kind of job.",
+            "topic": "",
+            "turn_no": "117"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jamie:117",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "yes, she did",
+            "topic": "",
+            "turn_no": "118"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jennifer:115",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "reception is still not related to cashier",
+            "topic": "danielle",
+            "turn_no": "119"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jamie:119",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "I think so",
+            "topic": "",
+            "turn_no": "120"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "any chance for training once he/she starts to work?",
+            "topic": "",
+            "turn_no": "121"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "i confused myself actually based on that previous conversation i was having with kara",
+            "topic": "",
+            "turn_no": "122"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jennifer:122",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "it was susie with reception and she also was an office assistant",
+            "topic": "",
+            "turn_no": "123"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "Susie has language skills, helps a lot.",
+            "topic": "susie",
+            "turn_no": "124"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jamie:124",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "i like susie a little",
+            "topic": "susie",
+            "turn_no": "125"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "jamie:124",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "ii depends on which store i think",
+            "topic": "",
+            "turn_no": "126"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "i want to hear other people's opinion about Susie. She seems an ideal candidate. Isn't she?",
+            "topic": "susie",
+            "turn_no": "127"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jamie:127",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "because she's worked in office environments she's used to asnweting to a boss as the job descrip asked for",
+            "topic": "susie",
+            "turn_no": "128"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jamie:127",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "i dont know that anyone else is here beside you (jamie), jianhuan and myself",
+            "topic": "",
+            "turn_no": "129"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "anyone here?",
+            "topic": "",
+            "turn_no": "130"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "jennifer:130",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "131"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jennifer:129",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "But there are 6 blue names",
+            "topic": "",
+            "turn_no": "132"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jamie:127",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "Morgan",
+            "topic": "",
+            "turn_no": "133"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "yeah-  some tech problems tonight it seems-   i just sent an email to see if we should continue with just us",
+            "topic": "",
+            "turn_no": "134"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "jamie:132",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "same as the first ones-  no exp that says she would be good for a cashier position",
+            "topic": "morgan",
+            "turn_no": "135"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jamie:133",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "sure",
+            "topic": "",
+            "turn_no": "136"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "so we all agree on Susie?",
+            "topic": "susie",
+            "turn_no": "137"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jamie:137",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "james seems good",
+            "topic": "James",
+            "turn_no": "138"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jamie:137",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "i am for Susie",
+            "topic": "susie",
+            "turn_no": "139"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jamie:137",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "so do i ,and also james is good",
+            "topic": "james",
+            "turn_no": "140"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jianhua:138",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "james would be my 2nd pick",
+            "topic": "james",
+            "turn_no": "141"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "so we all think Susie!  yay",
+            "topic": "james",
+            "turn_no": "142"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jennifer:142",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "i agree with jennifer",
+            "topic": "",
+            "turn_no": "143"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jennifer:141",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "James has good education but lacks experience. With some training, he could be better than Susie.",
+            "topic": "",
+            "turn_no": "144"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jamie:144",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "absolutely",
+            "topic": "",
+            "turn_no": "145"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jamie:144",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "yes",
+            "topic": "",
+            "turn_no": "146"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "depends whether the boss gives training.",
+            "topic": "",
+            "turn_no": "147"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "kara+chris",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "Kara Chris have any opinions?",
+            "topic": "",
+            "turn_no": "148"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jamie:148",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "i think they're having trouble logging in but are still trying",
+            "topic": "",
+            "turn_no": "149"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jamie:148",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "it seems they are not here",
+            "topic": "",
+            "turn_no": "150"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jianhua:150",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "right jianhua",
+            "topic": "",
+            "turn_no": "151"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jennifer:151",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "it works well since the server was restart",
+            "topic": "",
+            "turn_no": "152"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kara",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "yeah- at least we had some time to choose the candidate together",
+            "topic": "",
+            "turn_no": "153"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "is this system a new gadget, or has sb used it before?",
+            "topic": "",
+            "turn_no": "154"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Signal-Non-Understanding",
+            "link_to": "jamie:154",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "what is sb?",
+            "topic": "",
+            "turn_no": "155"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:155",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "somebody",
+            "topic": "",
+            "turn_no": "156"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jamie:154",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "ohh    we've been using this for the study the last few weeks",
+            "topic": "",
+            "turn_no": "157"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jennifer:157",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "see.",
+            "topic": "",
+            "turn_no": "158"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:157",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "occassionally logging in issues",
+            "topic": "",
+            "turn_no": "159"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jennifer:159",
+            "polarity": "",
+            "speaker": "jianhua",
+            "text": "ok",
+            "topic": "",
+            "turn_no": "160"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "jennifer",
+            "polarity": "",
+            "speaker": "jamie",
+            "text": "shall we have trouble logging in each time?",
+            "topic": "",
+            "turn_no": "161"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jennifer",
+            "text": "we've never accomplished the goal (choosing a resume) so fast though before  - and we even had problems!",
+            "topic": "",
+            "turn_no": "162"
+        }
+    ]
+}

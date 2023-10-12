@@ -1,0 +1,4795 @@
+{
+    "date": "",
+    "turns": [
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel",
+            "text": "http://scil.ils.albany.edu/GroupB.html",
+            "topic": "Libraries",
+            "turn_no": "1"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "hi all",
+            "topic": "",
+            "turn_no": "2"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "hello",
+            "topic": "",
+            "turn_no": "3"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "hi",
+            "topic": "",
+            "turn_no": "4"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "hi",
+            "topic": "",
+            "turn_no": "5"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel",
+            "text": "Hi guys, since there are four of you here, I think you can begin and others may join in later.",
+            "topic": "",
+            "turn_no": "6"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "ilspersonnel:6",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "Ok",
+            "topic": "",
+            "turn_no": "7"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "ilspersonnel:6",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "ok",
+            "topic": "",
+            "turn_no": "8"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "ilspersonnel:6",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "ok",
+            "topic": "",
+            "turn_no": "9"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "nate",
+            "polarity": "",
+            "speaker": "ilspersonnel",
+            "text": "Let's see, Nate, would you mind leading today?",
+            "topic": "",
+            "turn_no": "10"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "ilspersonnel:10",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "okay",
+            "topic": "",
+            "turn_no": "11"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "hi",
+            "topic": "",
+            "turn_no": "12"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "johnw",
+            "text": "hello",
+            "topic": "",
+            "turn_no": "13"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "hi",
+            "topic": "",
+            "turn_no": "14"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "hi",
+            "topic": "",
+            "turn_no": "15"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "kerri:14",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": ":)",
+            "topic": "",
+            "turn_no": "16"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "hi",
+            "topic": "",
+            "turn_no": "17"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel",
+            "text": "Great, thanks! You guys can begin.",
+            "topic": "",
+            "turn_no": "18"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "johnw",
+            "polarity": "",
+            "speaker": "ilspersonnel",
+            "text": "John, would you mind joining Group A actually.",
+            "topic": "",
+            "turn_no": "19"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i'm \"leading\" - this takes more effort - okay, lets get started - i'll give this a shot",
+            "topic": "",
+            "turn_no": "20"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "johnw",
+            "polarity": "",
+            "speaker": "ilspersonnel",
+            "text": "There's one person less there right now, we need at least four in a group. :-)",
+            "topic": "",
+            "turn_no": "21"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "you've noticed five categories to divide tax dollar resources",
+            "topic": "",
+            "turn_no": "22"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "ilspersonnel:19",
+            "polarity": "",
+            "speaker": "johnw",
+            "text": "okkk",
+            "topic": "",
+            "turn_no": "23"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:22",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "YEAH",
+            "topic": "",
+            "turn_no": "24"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "kerri:24",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "woops",
+            "topic": "",
+            "turn_no": "25"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "one option is to make it simple, and allot an even 20% of funds to each - does anyone feel this is a good idea?",
+            "topic": "",
+            "turn_no": "26"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "or do you think some of these services are more important than others?",
+            "topic": "",
+            "turn_no": "27"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "nate:26",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "I'm a librarian so ...",
+            "topic": "Libraries",
+            "turn_no": "28"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenifer:28",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "don't be shy",
+            "topic": "",
+            "turn_no": "29"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:26",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i thought of the 20 percent right away",
+            "topic": "",
+            "turn_no": "30"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:29",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i'm a librarian too",
+            "topic": "",
+            "turn_no": "31"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:27",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I feel like its more important to give some more to other things",
+            "topic": "",
+            "turn_no": "32"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "so i guess i;ll declare myself biased in that sense",
+            "topic": "",
+            "turn_no": "33"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "kerri:32",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "yeah were probably supposed to do different percentages",
+            "topic": "",
+            "turn_no": "34"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "water and sewer probably need more things",
+            "topic": "Highway and Roads",
+            "turn_no": "35"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:26",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i don't think so, only because i think some things require many more resources than others",
+            "topic": "",
+            "turn_no": "36"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lisa:36",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "as kerri said",
+            "topic": "",
+            "turn_no": "37"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "So ... :-) 90% to the library, right?",
+            "topic": "Libraries ",
+            "turn_no": "38"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "kerri",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "Kerri - what do you feel should be short changed compared to others - and what examples -",
+            "topic": "",
+            "turn_no": "39"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "jenifer:38",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "make it 99% :-D",
+            "topic": "",
+            "turn_no": "40"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:40",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "LOL - not really, we have to get to work on roads and use toilets",
+            "topic": "Highway and Roads",
+            "turn_no": "41"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "nate:39",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "unfortunately I thing that the library needs less resources",
+            "topic": "Libraries ",
+            "turn_no": "42"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:41",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "yeah two important aspects",
+            "topic": "Highway and Roads",
+            "turn_no": "43"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:42",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "Because they can always use independent donations",
+            "topic": "Libraries ",
+            "turn_no": "44"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "senior citizen services are crucial, yet they don't compose even 20% of the population in a typical town/city",
+            "topic": "Senior Services",
+            "turn_no": "45"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:45",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "agreed",
+            "topic": "Senior Services",
+            "turn_no": "46"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "all of these services can rely on independent donations",
+            "topic": "",
+            "turn_no": "47"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:47",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "true",
+            "topic": "",
+            "turn_no": "48"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "what items could use more federal dollars?",
+            "topic": "",
+            "turn_no": "49"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lisa:49",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I'd say that road, water/sewers and the refuse need the most money",
+            "topic": "Water and Sewer",
+            "turn_no": "50"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Philanthropists will take care of the seniors",
+            "topic": "Senior Services",
+            "turn_no": "51"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenifer:51",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "52"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "this is really related to city council distribution of funds, federal funds and grants are a different matter",
+            "topic": "",
+            "turn_no": "53"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "they'd probably take care of the libraries",
+            "topic": "",
+            "turn_no": "54"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lisa:54",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i agree",
+            "topic": "",
+            "turn_no": "55"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "seniors typically have the most resources and are better able to take care of themselves, financially at least, than any other segment of the population",
+            "topic": "Senior Services",
+            "turn_no": "56"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:56",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i know, but what i'm saying is that some fed grants may be very easy to get, and if you get money via fed dollars,",
+            "topic": "Senior Services",
+            "turn_no": "57"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:57",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "you could use less city dollars",
+            "topic": "Senior Services",
+            "turn_no": "58"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "seniors are the most powerful group - so lets give them say, 10% of the funds, max",
+            "topic": "Senior Services",
+            "turn_no": "59"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "If you take a look at how much of my household income goes to water/sewer, refuse, and recycling it is really small ... I mean what the city charges us",
+            "topic": "",
+            "turn_no": "60"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:59",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "good idea nate",
+            "topic": "",
+            "turn_no": "61"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "does anyone think that is too much?",
+            "topic": "",
+            "turn_no": "62"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I think itd be easier if we knew houw much the budget was",
+            "topic": "",
+            "turn_no": "63"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "nate:62",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I think its alright",
+            "topic": "",
+            "turn_no": "64"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yes, dont a lot of municipalities also have their residents use a private firm for recycling and trash disposition?",
+            "topic": "",
+            "turn_no": "65"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:63",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yes, knowing a figure for the budget would make this easier -",
+            "topic": "",
+            "turn_no": "66"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:66",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "it's one thing to know how these stand in relation to each other, percentages - but the actual figure would be more helpful",
+            "topic": "",
+            "turn_no": "67"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i would vote for a slighly higher amount for senior services",
+            "topic": "Senior Services",
+            "turn_no": "68"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Information-Request",
+            "link_to": "lisa:68",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "why?",
+            "topic": "Senior Services",
+            "turn_no": "69"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:68",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "maybe 12-15%",
+            "topic": "Senior Services",
+            "turn_no": "70"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "We have the option of private or city ... for city garbage we actually purchase blue city bags at the grocery store that your trash has to go in",
+            "topic": "",
+            "turn_no": "71"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:71",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "small ones are 2:75 and large are 3.50",
+            "topic": "",
+            "turn_no": "72"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:69",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "because i would put the lowest allocation to refuse and recycling",
+            "topic": "Refuse and Recycling",
+            "turn_no": "73"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "jenifer:72",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "$2.75 and $3.50",
+            "topic": "",
+            "turn_no": "74"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:73",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "senior services requires a lot more personnel i think",
+            "topic": "Senior Services",
+            "turn_no": "75"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:71",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah - there are often both options and residents have choice, or maybe a hybrid option",
+            "topic": "",
+            "turn_no": "76"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "nate:76",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "hmm",
+            "topic": "",
+            "turn_no": "77"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lisa:70",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah - seniors really need no more than 10% , even that would be generous",
+            "topic": "Senior Services",
+            "turn_no": "78"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lisa:75",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "Yeah, but its a lower pecentage of the population",
+            "topic": "Senior Services",
+            "turn_no": "79"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lisa:75",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i dont think they do",
+            "topic": "Senior Services",
+            "turn_no": "80"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "how much of the community uses the library? i'd say",
+            "topic": "Libraries ",
+            "turn_no": "81"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:81",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "a lot bigger percentage than there are of just seniors alone",
+            "topic": "Libraries ",
+            "turn_no": "82"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:82",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i agree",
+            "topic": "Libraries ",
+            "turn_no": "83"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "laura:83",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i think the library could be benefited more than the seniors",
+            "topic": "Libraries ",
+            "turn_no": "84"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:82",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "but seniors are more likely to have health issues, and that gets expensive, requires more personnel",
+            "topic": "Senior Services",
+            "turn_no": "85"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "laura:84",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "aka needs more funds",
+            "topic": "Libraries ",
+            "turn_no": "86"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lisa:85",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "thats true",
+            "topic": "Senior Services",
+            "turn_no": "87"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "why devote all these resources to one, small segment of the populatiion, who are so wealthy in comparison?",
+            "topic": "Senior Services",
+            "turn_no": "88"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:88",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "good poit",
+            "topic": "Senior Services",
+            "turn_no": "89"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "who agrees that the libraries don't need as much?",
+            "topic": "Senior Services",
+            "turn_no": "90"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "laura:89",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "point*",
+            "topic": "",
+            "turn_no": "91"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lisa:85",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "health issues? they have Medicare",
+            "topic": "Senior Services",
+            "turn_no": "92"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Lets approach this in a different way ... let's say each gets 20% and then decide if we take 5% away from one who do we give it to",
+            "topic": "",
+            "turn_no": "93"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "are seniors wealthy?",
+            "topic": "Senior Services",
+            "turn_no": "94"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:93",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "Thats a good idea",
+            "topic": "",
+            "turn_no": "95"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:93",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "thats a good plan",
+            "topic": "",
+            "turn_no": "96"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lisa:94",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "many seniors are not wealthy",
+            "topic": "Senior Services",
+            "turn_no": "97"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lisa:94",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "no, they are not wealthy",
+            "topic": "Senior Services",
+            "turn_no": "98"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "my parents have medicare and it pays for practically nothing",
+            "topic": "Senior Services",
+            "turn_no": "99"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:98",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "they are wealthy in comparison to everyone else in the population",
+            "topic": "",
+            "turn_no": "100"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "So if Refuse and Recycling only needs 10% where should we spend that 10%",
+            "topic": "Refuse and Recycling",
+            "turn_no": "101"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:100",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "they have the most years of income, the most education, and pensions - they are the most powerful group in the United States today",
+            "topic": "Senior Services",
+            "turn_no": "102"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:102",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i'm not sure i agree with that, i would think it's more the 40-50 age range that are wealthier",
+            "topic": "",
+            "turn_no": "103"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i think highway and roads are important",
+            "topic": "Highway and Roads",
+            "turn_no": "104"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lisa:99",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "well - they have pensions and employment to pay for their health insurabce",
+            "topic": "",
+            "turn_no": "105"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:105",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "I know so many poor seniors on fixed incomes - it's really sad",
+            "topic": "",
+            "turn_no": "106"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:106",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "me too",
+            "topic": "Senior Services",
+            "turn_no": "107"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:105",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "even if medicare pays for nothing, it's better than having no govt. health insurance, which the rest of the population has",
+            "topic": "",
+            "turn_no": "108"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "I feel like there are other public services that should be on this list that are not",
+            "topic": "",
+            "turn_no": "109"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:108",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "agreed, but i still think they would have more potential health problems",
+            "topic": "Senior Services",
+            "turn_no": "110"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "jenifer:109",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "perhaps those services are already determined",
+            "topic": "",
+            "turn_no": "111"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:111",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "the resources",
+            "topic": "",
+            "turn_no": "112"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "nate:111",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "perhaps",
+            "topic": "",
+            "turn_no": "113"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "if everyone had to pick one as the most important, what would u pick?",
+            "topic": "",
+            "turn_no": "114"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "information-request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "so - maybe public libraries - we can fix that at 40% - who disagrees?",
+            "topic": "Libraries ",
+            "turn_no": "115"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": ",,,..//",
+            "topic": "",
+            "turn_no": "116"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "information-request",
+            "link_to": "laura:114",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "public libraries is most important - what is everyone else's vote",
+            "topic": "Libraries ",
+            "turn_no": "117"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "please voice your vote",
+            "topic": "",
+            "turn_no": "118"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "kerri:116",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "sorry",
+            "topic": "",
+            "turn_no": "119"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "nate:118",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "hmmm sorry still deciding",
+            "topic": "",
+            "turn_no": "120"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:119",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "My computer freaked for a minute",
+            "topic": "",
+            "turn_no": "121"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:115",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Libraries can work consortially to cut costs",
+            "topic": "Libraries",
+            "turn_no": "122"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i think sewer and water are more important, even though i love libraries",
+            "topic": "Water and Sewer",
+            "turn_no": "123"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lisa:123",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i think so too lisa",
+            "topic": "Water and Sewer",
+            "turn_no": "124"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "laura:124",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "there can be alot of issues with sewer and water",
+            "topic": "Water and Sewer",
+            "turn_no": "125"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "laura:125",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I agree with laura",
+            "topic": "Water and Sewer",
+            "turn_no": "126"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "laura:125",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "very expensive issues haha",
+            "topic": "",
+            "turn_no": "127"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "I have a big house and get a sewer and water bill every three months that only costs like $120 - I don't think sewer and water require that much $ or our bill would be higher",
+            "topic": "Water and Sewer",
+            "turn_no": "128"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "we dont even have the population of this town/city",
+            "topic": "",
+            "turn_no": "129"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:129",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "so it makes it more difficult, the lack of info.",
+            "topic": "",
+            "turn_no": "130"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:130",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "thats a good point nate",
+            "topic": "",
+            "turn_no": "131"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "but every single person uses them, not every single person uses libraries or senior services",
+            "topic": "Water and Sewer",
+            "turn_no": "132"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lisa:132",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "yes a necessity",
+            "topic": "Water and Sewer",
+            "turn_no": "133"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "laura:133",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "its true",
+            "topic": "",
+            "turn_no": "134"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "lisa:132",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Everyone should use the library :-)",
+            "topic": "Libraries",
+            "turn_no": "135"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "- every person may use water and sewer, but those costs are also dispersed - and different municipalities share these costs - nyc gets it water from an aquafur - and",
+            "topic": "Water and Sewer",
+            "turn_no": "136"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:136",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "upstate ny gets it from underground as well as reservoirs, which are all shared by many towns and cities",
+            "topic": "Water and Sewer",
+            "turn_no": "137"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "No one can disagree that the roads need a lot of work",
+            "topic": "Highway and Roads",
+            "turn_no": "138"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:138",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I think they need the most money",
+            "topic": "Highway and Roads",
+            "turn_no": "139"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:139",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "(Unless you do disagree lol)",
+            "topic": "",
+            "turn_no": "140"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Libraries also share resouces - like state wide consortial agreements and lending",
+            "topic": "Libraries ",
+            "turn_no": "141"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenifer:141",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "but they are way more expensive to maintain",
+            "topic": "",
+            "turn_no": "142"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "roads - it doesnt even specify annual snowfall amounts",
+            "topic": "Highway and Roads",
+            "turn_no": "143"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:143",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "very difficult to decide when population and climate arent addressed",
+            "topic": "",
+            "turn_no": "144"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Well won't we all be driving hover cars in like a year",
+            "topic": "",
+            "turn_no": "145"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenifer:145",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "146"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "lisa:146",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "would be cool",
+            "topic": "",
+            "turn_no": "147"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenifer:145",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "hahaha nice",
+            "topic": "",
+            "turn_no": "148"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "if you shot change the library, it can actually increase crime and juvenile delinquency - which impacts the community, and there are other issues too of course",
+            "topic": "Libraries ",
+            "turn_no": "149"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:149",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "all these services are important, to me - the only thing really clear is that senior citizen services deserve the least",
+            "topic": "Senior Services",
+            "turn_no": "150"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:150",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i agree with nate",
+            "topic": "Senior Services",
+            "turn_no": "151"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "what do we think of recycling?",
+            "topic": "Refuse and Recycling",
+            "turn_no": "152"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "One question - what percentage of each item's operating budget comes from the taxes?",
+            "topic": "",
+            "turn_no": "153"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:150",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i don't think i agree with that",
+            "topic": "",
+            "turn_no": "154"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "laura:152",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "does that need a lot of funding?",
+            "topic": "Refuse and Recycling",
+            "turn_no": "155"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "laura:155",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "im contemplating about that being the least funded",
+            "topic": "Refuse and Recycling",
+            "turn_no": "156"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "how about 30% for libraries - 30% for water and sewer - 30% for highway and road - 8% for refuse and recylcing - and 2% for senior citizen services",
+            "topic": "Senior Services",
+            "turn_no": "157"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:157",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i wouldn't vote for that",
+            "topic": "",
+            "turn_no": "158"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lisa:158",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "no way",
+            "topic": "",
+            "turn_no": "159"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Like which ones have alternate sources of funding",
+            "topic": "",
+            "turn_no": "160"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "keep in mind, 2% can be a lot - 2% of 2 million is $40,000 - which is more than adequate",
+            "topic": "",
+            "turn_no": "161"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "lisa",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "why wouldn't you vote for that Lisa?",
+            "topic": "",
+            "turn_no": "162"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "nate:162",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "what would you change and why?",
+            "topic": "",
+            "turn_no": "163"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "nate:162",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "2% for senior services?",
+            "topic": "Senior Services",
+            "turn_no": "164"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "lisa:164",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah - i can tell you that might a bigger percentage than your hometown devotes to senior services",
+            "topic": "Senior Services",
+            "turn_no": "165"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:165",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "senior services? that's such a joke - there's no such thing, there really is it",
+            "topic": "Senior Services",
+            "turn_no": "166"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "how much do u think their living facicilites cost?",
+            "topic": "Senior Services",
+            "turn_no": "167"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "laura:167",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "towns have Senior Centers - but seniors already are given federal resources through medicare",
+            "topic": "Senior Services",
+            "turn_no": "168"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I think it needs a lot more",
+            "topic": "Senior Services",
+            "turn_no": "169"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "compare senior services to schools",
+            "topic": "Senior Services",
+            "turn_no": "170"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:170",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "But we're not paying for schools",
+            "topic": "",
+            "turn_no": "171"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "in Niskayuna, senior services receive about 1% of the town budget",
+            "topic": "Senior Services",
+            "turn_no": "172"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:171",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "no, we're not paying for schools",
+            "topic": "",
+            "turn_no": "173"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:173",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i'm just pointing out that senior services are really not a priority or interest for most citizens",
+            "topic": "Senior Services",
+            "turn_no": "174"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "How about this: 5% for seniors",
+            "topic": "Senior Services",
+            "turn_no": "175"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:174",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "the emphasis is really more on children",
+            "topic": "",
+            "turn_no": "176"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:176",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "and school aged kids",
+            "topic": "",
+            "turn_no": "177"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:175",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "5% is manageable, i'd be willing to compromise - but that really should be the maximum - anything more is a joke, otherwise you just turn the town into an assisted living luxury center - instead of private, now public financed",
+            "topic": "Senior Services",
+            "turn_no": "178"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicad",
+            "text": "are we talking about the world",
+            "topic": "",
+            "turn_no": "179"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicad:179",
+            "polarity": "",
+            "speaker": "jessicad",
+            "text": "i was in the wrong chat",
+            "topic": "",
+            "turn_no": "180"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicad:179",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "its a community i believe",
+            "topic": "",
+            "turn_no": "181"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "jessicad:180",
+            "polarity": "",
+            "speaker": "jessicad",
+            "text": "*europe",
+            "topic": "",
+            "turn_no": "182"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessicad:179",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "we're talking about financial budget",
+            "topic": "",
+            "turn_no": "183"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "kerri:183",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "for a town",
+            "topic": "",
+            "turn_no": "184"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "kerri:184",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "for a city",
+            "topic": "",
+            "turn_no": "185"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "laura:185",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "right",
+            "topic": "",
+            "turn_no": "186"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:184",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "and how to split it all up",
+            "topic": "",
+            "turn_no": "187"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "it says \"the city council\" so yeah a town or city",
+            "topic": "",
+            "turn_no": "188"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "jessicad",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "http://scil.ils.albany.edu/GroupB.html",
+            "topic": "",
+            "turn_no": "189"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "so we agreed 5 percent for senior citizens?",
+            "topic": "Senior Services",
+            "turn_no": "190"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "laura:190",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah",
+            "topic": "",
+            "turn_no": "191"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:191",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "5 percent it is",
+            "topic": "",
+            "turn_no": "192"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "okay so now the rest of the 95 percent haha",
+            "topic": "",
+            "turn_no": "193"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "how much should roads and higways recieve?",
+            "topic": "Highway and Roads",
+            "turn_no": "194"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I'd say 8% for senior citizens, 10% for refuse, 20% to roads, 20% to water and sewer, 12% libraries",
+            "topic": "",
+            "turn_no": "195"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:195",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "It took me a while to figure that lol",
+            "topic": "",
+            "turn_no": "196"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "kerri:196",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "but anything is good with that",
+            "topic": "",
+            "turn_no": "197"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "kerri:195",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "the figure for refuse is way too high",
+            "topic": "Refuse and Recycling",
+            "turn_no": "198"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "kerri:195",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "wait, i don't think that's 100, is it?",
+            "topic": "",
+            "turn_no": "199"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "lisa:199",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "HAhaha",
+            "topic": "",
+            "turn_no": "200"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lisa:199",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "no",
+            "topic": "",
+            "turn_no": "201"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Acknowledge",
+            "link_to": "nate:201",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "202"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:195",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i agree with kerri",
+            "topic": "",
+            "turn_no": "203"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I'm really good at math some nights",
+            "topic": "",
+            "turn_no": "204"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:204",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I'm pocketing the leftovers",
+            "topic": "",
+            "turn_no": "205"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "kerri:205",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "206"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:195",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i think 8 percent would be max for reuse",
+            "topic": "Refuse and Recycling",
+            "turn_no": "207"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:196",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "I agree with Kerri",
+            "topic": "",
+            "turn_no": "208"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "laura:207",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "8% sounds alright with me",
+            "topic": "",
+            "turn_no": "209"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "laura:207",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "8 is more reasonable, that is a good amount",
+            "topic": "",
+            "turn_no": "210"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "But it is so weird that they have left out items like schools, hospitals, parks and recreation, etc",
+            "topic": "",
+            "turn_no": "211"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:211",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i know!",
+            "topic": "",
+            "turn_no": "212"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Agree-Accept",
+            "link_to": "laura:212",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "very odd",
+            "topic": "",
+            "turn_no": "213"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "What about law enforcement",
+            "topic": "",
+            "turn_no": "214"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "jenifer:211",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I think those are federally",
+            "topic": "",
+            "turn_no": "215"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jenifer:211",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah - maybe those are static every year, hopefully not! - maybe they are decided through a different process, than by a bunch of people on chat, haha",
+            "topic": "",
+            "turn_no": "216"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "What about firemen",
+            "topic": "",
+            "turn_no": "217"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "so - i'd say",
+            "topic": "",
+            "turn_no": "218"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:218",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "divide the rest evenly",
+            "topic": "",
+            "turn_no": "219"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:219",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "5 to seniors , 8 to recyylcing, and the remained split evenly",
+            "topic": "",
+            "turn_no": "220"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:220",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i agree",
+            "topic": "",
+            "turn_no": "221"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:216",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "A bunch of people who do not have enough information about the situation",
+            "topic": "",
+            "turn_no": "222"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "what's the rest??",
+            "topic": "",
+            "turn_no": "223"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "kerri:223",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "divided?",
+            "topic": "",
+            "turn_no": "224"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "29% each",
+            "topic": "",
+            "turn_no": "225"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "confirmation-request",
+            "link_to": "kerri:225",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, so thats a good plan - right?",
+            "topic": "",
+            "turn_no": "226"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:226.1",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "Sounds good to me",
+            "topic": "",
+            "turn_no": "227"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:226.1",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "sorry, i don't agree with that",
+            "topic": "",
+            "turn_no": "228"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "lisa",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "what do you propose lisa?",
+            "topic": "",
+            "turn_no": "229"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "laura:229",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "we've certainly got time to debate! haha",
+            "topic": "",
+            "turn_no": "230"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Is this what you are saying? Seniors 5%, Refuse and Recycling 8%, Libraries 12%, Water and Sewer 37.5%, and Highway and Roads 37.5 %",
+            "topic": "",
+            "turn_no": "231"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:231",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i'd be more likely to agree to that",
+            "topic": "",
+            "turn_no": "232"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenifer:231",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "so you're spending hundreds of thousands of dollars on roads? instead of on education and culture , accessible through the library to the widest group of people?",
+            "topic": "Highway and Roads",
+            "turn_no": "233"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:233",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "a water sewage treatment plant, more than one water storage tanks, a purification plant",
+            "topic": "Water and Sewer",
+            "turn_no": "234"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lisa:234",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "doesn't seem like good priorities - the roads are maintained with less",
+            "topic": "Highway and Roads",
+            "turn_no": "235"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:234",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "those are unbelievably expensive",
+            "topic": "Water and Sewer",
+            "turn_no": "236"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "I'd say we eliminate our plan",
+            "topic": "",
+            "turn_no": "237"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "how many libraries are we talking about??",
+            "topic": "Libraries ",
+            "turn_no": "238"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:235",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "no not roads",
+            "topic": "",
+            "turn_no": "239"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:237",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "let's spend 100% on military and defense",
+            "topic": "",
+            "turn_no": "240"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Or Seniors 5%, Refuse and Recycling 8%, Libraries 27%, Water and Sewer 35%, and Highway and Roads 35%",
+            "topic": "",
+            "turn_no": "241"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:241",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "I got confused",
+            "topic": "",
+            "turn_no": "242"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenifer:242",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "243"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "the schools are surely responsible for some oft he education and culture",
+            "topic": "",
+            "turn_no": "244"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lisa:244",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, some",
+            "topic": "",
+            "turn_no": "245"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:245",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "no need to be sarcastic",
+            "topic": "",
+            "turn_no": "246"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:246",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i work in the arts, for a non=profit, a big believer in the arts",
+            "topic": "",
+            "turn_no": "247"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:241",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I like that",
+            "topic": "",
+            "turn_no": "248"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "what would happen if you went to fairfield, CT or north jersey, or any affluent place - and u took away their community library - they'd be mad -- but this is actually universal -- all towns devote a good percentage to libraries -",
+            "topic": "Libraries",
+            "turn_no": "249"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "this is a tricky plan to devise",
+            "topic": "",
+            "turn_no": "250"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "laura:250",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "with so little information",
+            "topic": "",
+            "turn_no": "251"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i'm just saying that if the water treatment plants, etc. aren't properly maintained, you have some serious problems on your hand and some serious fallout",
+            "topic": "Water and Sewer",
+            "turn_no": "252"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:252",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "if a library had problems, the community could get by until a solution was found, it wouldn't have health implications, etc",
+            "topic": "Libraries ",
+            "turn_no": "253"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:253",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "and that would affect everyone, even those that dont use a library",
+            "topic": "Water and Sewer",
+            "turn_no": "254"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i volunteer at a library and know that volunteers are a big part of that system",
+            "topic": "Water and Sewer",
+            "turn_no": "255"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:255",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "and somebody else mentioned earlier that they can easily work with other libraries, share resources. they are linked to other regional libraries",
+            "topic": "Libraries ",
+            "turn_no": "256"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "So what are we deciding",
+            "topic": "",
+            "turn_no": "257"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:256",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "that makes it more expensive, to share resources is a lot of transportation and technology costs - towns also share water resources",
+            "topic": "",
+            "turn_no": "258"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "yes, but i don't see how libraries, even highly technologized ones, require more money than water treatment plants, equipment for water sewage, etc.",
+            "topic": "Libraries ",
+            "turn_no": "259"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lisa:259",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "okay, so we'll make water resources more",
+            "topic": "Water and Sewer",
+            "turn_no": "260"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "what are the big expensese for libraries?",
+            "topic": "Libraries ",
+            "turn_no": "261"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "what will providing the library with a large amount of funding provide?",
+            "topic": "Libraries ",
+            "turn_no": "262"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "laura:262",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "subscriptions to electronic reseources",
+            "topic": "Libraries ",
+            "turn_no": "263"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "jenifer:263",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "resources",
+            "topic": "Libraries ",
+            "turn_no": "264"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:263",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "that sounds nice",
+            "topic": "Libraries ",
+            "turn_no": "265"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I think libraries need more too",
+            "topic": "Libraries",
+            "turn_no": "266"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:266",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "books are expensive",
+            "topic": "Libraries ",
+            "turn_no": "267"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "but how many books are being bought new each year?",
+            "topic": "Libraries ",
+            "turn_no": "268"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "if u consider that nyc spends $262 million annually on water, thats a lot - but i dont know how it compares to other areas",
+            "topic": "Libraries ",
+            "turn_no": "269"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "nate:269",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "wiw",
+            "topic": "",
+            "turn_no": "270"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "laura:270",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "wow*",
+            "topic": "",
+            "turn_no": "271"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "laura:271",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "thats alot",
+            "topic": "",
+            "turn_no": "272"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "over 30% of your university's library budget is most likely spent on subscriptions to online databases and periodicals",
+            "topic": "Libraries ",
+            "turn_no": "273"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "jenifer:273",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "The largest operating cost for most of these agencies is staffing",
+            "topic": "Libraries",
+            "turn_no": "274"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenifer:274",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "interesting",
+            "topic": "",
+            "turn_no": "275"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "jenifer:274",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Each employee needs salary, health benefits, vacation ertc",
+            "topic": "Libraries",
+            "turn_no": "276"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "jenifer:276",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "etc",
+            "topic": "",
+            "turn_no": "277"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenifer:276",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "right, but same for the city employees who work at the plants",
+            "topic": "",
+            "turn_no": "278"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "the New York Public Library has over $50 billion in annual public spending., which totally dwards all water costs for the city",
+            "topic": "Libraries ",
+            "turn_no": "279"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:278",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "or the senior services centers, for that matter",
+            "topic": "Senior Services",
+            "turn_no": "280"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Information-Request",
+            "link_to": "nate:279",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "but how much of that is from the city?",
+            "topic": "",
+            "turn_no": "281"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "How many donations did the NYPL receive last year?",
+            "topic": "Libraries ",
+            "turn_no": "282"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenifer:282",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "and that's the nyc public library, which probably has rich donations behind it",
+            "topic": "Libraries ",
+            "turn_no": "283"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i was joking",
+            "topic": "",
+            "turn_no": "284"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:284",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Nate you are on fire",
+            "topic": "",
+            "turn_no": "285"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lisa:283",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yes, it has rich donations",
+            "topic": "",
+            "turn_no": "286"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "nate:284",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "287"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenifer:285",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "it wasnt intended to be humorous",
+            "topic": "",
+            "turn_no": "288"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "nate:288",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "289"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "we need to start working toward a consensus that we can agree on for the most part",
+            "topic": "",
+            "turn_no": "290"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "laura:290",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "agreed",
+            "topic": "",
+            "turn_no": "291"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "laura:290",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "yes",
+            "topic": "",
+            "turn_no": "292"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Ok so say we revisit giving each 20% right out of the box ... then we take 15% away from seniors, and 10% away from Refuse and Recycling ... so Water and Sewer 20%, Highway and Roads 20%, Libraries 20% where do we spend the 25% extra?",
+            "topic": "Senior Services",
+            "turn_no": "293"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:293",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Or should we say ...",
+            "topic": "",
+            "turn_no": "294"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "How about 5% each back to all?",
+            "topic": "",
+            "turn_no": "295"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "this is what somebody proposed earlier, i like this the best of what we've discussed so far: Seniors 5%, Refuse and Recycling 8%, Libraries 12%, Water and Sewer 37.5%, and Highway and Roads 37.5 %",
+            "topic": "",
+            "turn_no": "296"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lisa:296",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i like that one the best as well",
+            "topic": "",
+            "turn_no": "297"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:295",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "so 10% to seniors, 15% to refuse and recycling and the rest have 25%",
+            "topic": "",
+            "turn_no": "298"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "kerri:298",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "well, water and sewer , roads - those should be high - but recycling seems too high, isn't a lot of that privatized anyway?",
+            "topic": "Refuse and Recycling",
+            "turn_no": "299"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:298",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "I like Kerri's idea",
+            "topic": "",
+            "turn_no": "300"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:299",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I don't know, the whole recycling movement has taken off I think funding should be directed there more too",
+            "topic": "Refuse and Recycling",
+            "turn_no": "301"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "kerri:301",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Yes but it's not just recycling ... it garbage too",
+            "topic": "Refuse and Recycling",
+            "turn_no": "302"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:302",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "right",
+            "topic": "",
+            "turn_no": "303"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:302",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Landfills are expensive",
+            "topic": "Refuse and Recycling",
+            "turn_no": "304"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:304",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "right - like in most municipalities - you pay for it yourself",
+            "topic": "Refuse and Recycling",
+            "turn_no": "305"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "But , as in back to the future, in a year we can put the trash in the car for gas - right",
+            "topic": "",
+            "turn_no": "306"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:306",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "haha true",
+            "topic": "",
+            "turn_no": "307"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "there are trash collection stations, those are sort of supported by the town - but i know in Guiderland and Niskayuna for example,",
+            "topic": "",
+            "turn_no": "308"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:308",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "Yeah but Albany has city collection",
+            "topic": "Refuse and Recycling",
+            "turn_no": "309"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:308",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "your taxes DO NOT pay for trash pick up or recycling pick up and disposition, nor processing - thats all done by yourself",
+            "topic": "",
+            "turn_no": "310"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "kerri:309",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "Albany City? really",
+            "topic": "",
+            "turn_no": "311"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:311",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "Yes",
+            "topic": "",
+            "turn_no": "312"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "kerri:312",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "wow, so the city pays for that? -",
+            "topic": "Refuse and Recycling",
+            "turn_no": "313"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "nate:313",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I don't pay for trash at all",
+            "topic": "Refuse and Recycling",
+            "turn_no": "314"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:314",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "thats pretty good - so maybe you'd allocate some money there, in this particular case",
+            "topic": "Refuse and Recycling",
+            "turn_no": "315"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:314",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "me either",
+            "topic": "Refuse and Recycling",
+            "turn_no": "316"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "if we're talking about a city, then getting rid of trash is important",
+            "topic": "Refuse and Recycling",
+            "turn_no": "317"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "the town does own and operate a transfer station, but the percentage is proly too high - i wont quibble on details though , it might make sense just to make this easy",
+            "topic": "",
+            "turn_no": "318"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "I think I am deciding that Highways and Roads need the most",
+            "topic": "Highway and Roads",
+            "turn_no": "319"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:319",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Water and Sewer next",
+            "topic": "Water and Sewer",
+            "turn_no": "320"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:320",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "And the Library and Seniors on the next tier",
+            "topic": "Libraries ",
+            "turn_no": "321"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:319",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, with the way Americans drive and how this is so car-centric and theres so much sprawl and lack of public transportation and high speed trains that europe and asia has, we should spend a lot more on roads",
+            "topic": "Highway and Roads",
+            "turn_no": "322"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:322",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "true",
+            "topic": "",
+            "turn_no": "323"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Agree-Accept",
+            "link_to": "laura:323",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "good point",
+            "topic": "",
+            "turn_no": "324"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:322",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Hey ... they tried to build a monorail system through downtown Seattle and the tax payers shot it down",
+            "topic": "",
+            "turn_no": "325"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:325",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "It was soooo expensive",
+            "topic": "",
+            "turn_no": "326"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenifer:325",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "hahaha i'm not surprised",
+            "topic": "",
+            "turn_no": "327"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "",
+            "link_to": "jenifer:326",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "yeah sounds like it",
+            "topic": "",
+            "turn_no": "328"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Even in places like Seattle with TONS of public transportation people won't use it",
+            "topic": "",
+            "turn_no": "329"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "american cities dont have rails",
+            "topic": "",
+            "turn_no": "330"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "how about this?: Seniors 8%, Refuse and Recycling 10%, Libraries 15%, Water and Sewer 34.5%, and Highway and Roads 30.5 %",
+            "topic": "",
+            "turn_no": "331"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:329",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "They had insentives were you could get paid to take it",
+            "topic": "",
+            "turn_no": "332"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:331",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "this is a mixture of what some people said before",
+            "topic": "",
+            "turn_no": "333"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:330",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "ny is really the only true exception",
+            "topic": "",
+            "turn_no": "334"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:333",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "although the water and highway might be switched based on what was just said",
+            "topic": "Highway and Roads",
+            "turn_no": "335"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "nate:334",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "You mean NYC",
+            "topic": "",
+            "turn_no": "336"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:334",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "no, there's a whole rail system in san francisco",
+            "topic": "",
+            "turn_no": "337"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "jenifer:336",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "or NY",
+            "topic": "",
+            "turn_no": "338"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jenifer:338",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "no New York",
+            "topic": "",
+            "turn_no": "339"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:337",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "chicago too",
+            "topic": "",
+            "turn_no": "340"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:339",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "I live in Cortland",
+            "topic": "",
+            "turn_no": "341"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:341",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "a lot of people refer to it just simply as New York",
+            "topic": "",
+            "turn_no": "342"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:341",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "and there is no public transportation",
+            "topic": "",
+            "turn_no": "343"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:343",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "There are short buses for the disables and that is it",
+            "topic": "",
+            "turn_no": "344"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "NYC is like if you're going to differentiate b/n upstate and downstate, but upstate is not really that important in comparison",
+            "topic": "",
+            "turn_no": "345"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:345",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "so most people in the U.S. - when they say New York, it means the city, not the state",
+            "topic": "",
+            "turn_no": "346"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:346",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "who cares about NYS? people care about New York (the city, not the state)",
+            "topic": "",
+            "turn_no": "347"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:347",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "lol, not to us new york staters",
+            "topic": "",
+            "turn_no": "348"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:347",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "That is why I asked and you said the state",
+            "topic": "",
+            "turn_no": "349"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:349",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "but you mean the city",
+            "topic": "",
+            "turn_no": "350"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "the rest of use care about the giant state too",
+            "topic": "",
+            "turn_no": "351"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "kerri:351",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "!",
+            "topic": "",
+            "turn_no": "352"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "kerri:352",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": ":)",
+            "topic": "",
+            "turn_no": "353"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "kerri:351",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, but New York states are the minority when you're talking about a country of 300 million people that views New York as the city",
+            "topic": "",
+            "turn_no": "354"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:354",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i care about it too, New York State",
+            "topic": "",
+            "turn_no": "355"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Acknowledge",
+            "link_to": "nate:355",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "definitely",
+            "topic": "",
+            "turn_no": "356"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:356",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "so anyway -",
+            "topic": "",
+            "turn_no": "357"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Signal-Non-Understanding",
+            "link_to": "nate",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "you lost me",
+            "topic": "",
+            "turn_no": "358"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "nate:357",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "me too",
+            "topic": "",
+            "turn_no": "359"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "laura:359",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "soooo",
+            "topic": "",
+            "turn_no": "360"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "back to the percentages?",
+            "topic": "",
+            "turn_no": "361"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenifer:358",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "362"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "how about this? - Seniors 8%, Refuse and Recycling 10%, Libraries 15%, Water and Sewer 34.5%, and Highway and Roads 30.5 %",
+            "topic": "",
+            "turn_no": "363"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:363",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "or swtich highways and water, based on recent conversations",
+            "topic": "Highway and Roads",
+            "turn_no": "364"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lisa:364",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "no, you got to take 3 % away from seniors, give it to roads",
+            "topic": "Highway and Roads",
+            "turn_no": "365"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:365",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "or something else, 8% is too high",
+            "topic": "Senior Services",
+            "turn_no": "366"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:363",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "Or one percent away from everything else, and that 4and to roads",
+            "topic": "Highway and Roads",
+            "turn_no": "367"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:367",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "ok, i'd go with that, kerri",
+            "topic": "",
+            "turn_no": "368"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:368",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "than water/sewer and highways are about equal again",
+            "topic": "Highway and Roads",
+            "turn_no": "369"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "kerri:367",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "no, roads are covered",
+            "topic": "Highway and Roads",
+            "turn_no": "370"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:370",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "roads dont need more",
+            "topic": "Highway and Roads",
+            "turn_no": "371"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:369",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "especially bc the town pays for town roads",
+            "topic": "Highway and Roads",
+            "turn_no": "372"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:372",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I disagree",
+            "topic": "",
+            "turn_no": "373"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:373",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "roads are such a high expense",
+            "topic": "Highway and Roads",
+            "turn_no": "374"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "nate",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i thought you said to give 4 to roads earlier?",
+            "topic": "Highway and Roads",
+            "turn_no": "375"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "but roads in the town that are county roads, that connect towns, or that are part of interstates, those are all",
+            "topic": "Highway and Roads",
+            "turn_no": "376"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:376",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "paid for by the state and tolls, and",
+            "topic": "Highway and Roads",
+            "turn_no": "377"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:377",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "u also have federal roads and federal grants",
+            "topic": "",
+            "turn_no": "378"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I'm from upstate, and country town roads are obnoxious, 4 % more would go to plowing in winter, and potholes",
+            "topic": "Highway and Roads",
+            "turn_no": "379"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Roads include other things too, \"In addition to its efficient snow removal and aggressive paving program, the Highway Department provides other seasonal programs such as spring cleanup, summer yard waste pickup, fall leaf pickup and snow and ice removal. Highway personnel are also responsible for the upkeep of 32 miles of sidewalks, as well as the maintenance of over 180 vehicles and equipment owned by the various Town departments.\"",
+            "topic": "Highway and Roads",
+            "turn_no": "380"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:380",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "agreed",
+            "topic": "",
+            "turn_no": "381"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, so then",
+            "topic": "",
+            "turn_no": "382"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Action-Directive",
+            "link_to": "nate:382",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "remove the remaining percentage from seniors, and give it to roads - keep seniors at 4 or 5 %",
+            "topic": "Senior Services",
+            "turn_no": "383"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:383",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "the reason new york state is bankrupt right now, is because tax payers are paying pensions and health care for people who retired 30 years ago",
+            "topic": "Senior Services",
+            "turn_no": "384"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:383",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "sorry, now you are making seniors even less, i liked kerri's idea better of 1 percent from everything, making seniors 7, refuse 9, libraries 14, .......water 33 and roads 34",
+            "topic": "Senior Services",
+            "turn_no": "385"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:384",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "20 yrs ago and up",
+            "topic": "",
+            "turn_no": "386"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:383",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I think its more fair to compromise and take 1% from everything",
+            "topic": "",
+            "turn_no": "387"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "7% on seniors, thats absurd",
+            "topic": "Senior Services",
+            "turn_no": "388"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "nate:388",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "what are you going to do with the roads? they're a mess",
+            "topic": "Highway and Roads",
+            "turn_no": "389"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:389",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "they have the highest allocation, though",
+            "topic": "",
+            "turn_no": "390"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "7% on seniors, thats crazy i think",
+            "topic": "Senior Services",
+            "turn_no": "391"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Action-Directive",
+            "link_to": "nate:391",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "well , if roads are too much, give some to water",
+            "topic": "",
+            "turn_no": "392"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:391",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "yes, but there's a certain point of compromise that needs to happen with these discussion",
+            "topic": "",
+            "turn_no": "393"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:393",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "true",
+            "topic": "",
+            "turn_no": "394"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "We have 16 minutes to come to an agreement",
+            "topic": "",
+            "turn_no": "395"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:393",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "right, and thats why we're appealng to your reason, so that you may compromise and negotiate an amicable solution -- instead of grid lock demanding 90% for seniors",
+            "topic": "Senior Services",
+            "turn_no": "396"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:396",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "wait, i wasn't demanding 90 for seniors",
+            "topic": "",
+            "turn_no": "397"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:396",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "lol we're not demanding 80% though hahaha",
+            "topic": "",
+            "turn_no": "398"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:396",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "like, hand over fist, extortion, ultimatum tactics",
+            "topic": "",
+            "turn_no": "399"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:396",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "If anyone is taking this way to seriously it's not us",
+            "topic": "",
+            "turn_no": "400"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jenifer:400",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah i know, i'm just bored",
+            "topic": "",
+            "turn_no": "401"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "well we need to decide on something",
+            "topic": "",
+            "turn_no": "402"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "still - 7% is proly a tad high for seniors",
+            "topic": "Senior Services",
+            "turn_no": "403"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:403",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "i think we could break that down , just a dite, reinvest the money in our roads and water treatment programs",
+            "topic": "",
+            "turn_no": "404"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "i don't know, i mean, you'll be a senior one day too what if they get rid of your funding",
+            "topic": "Senior Services",
+            "turn_no": "405"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "kerri:405",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "??",
+            "topic": "",
+            "turn_no": "406"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "ilspersonnel",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "seniors 6, refuse 9, libraries 14, .......water 34 and roads 34",
+            "topic": "",
+            "turn_no": "407"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "lisa:407",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "right",
+            "topic": "",
+            "turn_no": "408"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "nate",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Nate - just type up your ideal percentages and let the rest of us roll it around for a minute",
+            "topic": "",
+            "turn_no": "409"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:408",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i have no idea if that's 100, i've lost track",
+            "topic": "",
+            "turn_no": "410"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:409",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "good idea jenifer",
+            "topic": "",
+            "turn_no": "411"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "kerri:405",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "well - i dont know what kind of additional funding seniors are entitlted too - they already receive more funding than any other portion of the population",
+            "topic": "",
+            "turn_no": "412"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:412",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "they vote in the highest percentage and are clearly the most powerful, influential, and wealthy group of american society",
+            "topic": "",
+            "turn_no": "413"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "6 is a reduction from 7",
+            "topic": "",
+            "turn_no": "414"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Well we can see who will be winning an AARP award this year",
+            "topic": "",
+            "turn_no": "415"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "jenifer:415",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "416"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "13 minutes",
+            "topic": "",
+            "turn_no": "417"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "jenifer:415",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "maybe we should fund AARP, just funnel the money to AARP",
+            "topic": "",
+            "turn_no": "418"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "nate:418",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "419"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "ok, so does anybody have any comments on the last figures?",
+            "topic": "",
+            "turn_no": "420"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:420",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "seniors 6, refuse 9, libraries 14, .......water 34 and roads 34",
+            "topic": "",
+            "turn_no": "421"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lisa:421",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i think thats fair and reasonable",
+            "topic": "",
+            "turn_no": "422"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lisa:421",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, thats better - it's an improvment",
+            "topic": "",
+            "turn_no": "423"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "the S6, Re9, L14, W34 and Ro34?",
+            "topic": "",
+            "turn_no": "424"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:424",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah -",
+            "topic": "",
+            "turn_no": "425"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:424",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "sounds good",
+            "topic": "",
+            "turn_no": "426"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "thanks for the stats Jen",
+            "topic": "",
+            "turn_no": "427"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:426",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I'm fine with that",
+            "topic": "",
+            "turn_no": "428"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "but let me check that it's 100",
+            "topic": "",
+            "turn_no": "429"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "lisa:429",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "great",
+            "topic": "",
+            "turn_no": "430"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lisa:429",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "it is",
+            "topic": "",
+            "turn_no": "431"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:431",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "I think",
+            "topic": "",
+            "turn_no": "432"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "oh wow,",
+            "topic": "",
+            "turn_no": "433"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:432",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "but my math skills are so good tonight",
+            "topic": "",
+            "turn_no": "434"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:433",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "no, it's not",
+            "topic": "",
+            "turn_no": "435"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:435",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "hold on",
+            "topic": "",
+            "turn_no": "436"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lisa:429",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "it's 97",
+            "topic": "",
+            "turn_no": "437"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "+1?",
+            "topic": "",
+            "turn_no": "438"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "kerri:438",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "Clearly i am too sleep derived for arithmetic",
+            "topic": "",
+            "turn_no": "439"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jenifer:437",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "So we have 3 more %",
+            "topic": "",
+            "turn_no": "440"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "jenifer:440",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "hahhaa",
+            "topic": "",
+            "turn_no": "441"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "jenifer:440",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "Where to spend it",
+            "topic": "",
+            "turn_no": "442"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "Uhm, +1 each to library, water, and roads?",
+            "topic": "",
+            "turn_no": "443"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:443",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "sounds good to me",
+            "topic": "",
+            "turn_no": "444"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:443",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "thats what i was thinking",
+            "topic": "",
+            "turn_no": "445"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "kerri:443",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i'd rather bump seniors back up to 7",
+            "topic": "Senior Services",
+            "turn_no": "446"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:446",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "but whatever, it's 1",
+            "topic": "",
+            "turn_no": "447"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:447",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "percent",
+            "topic": "",
+            "turn_no": "448"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "lisa:448",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "and time is almost up",
+            "topic": "",
+            "turn_no": "449"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "lisa:446",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "nah, 7 - its really unprecedented",
+            "topic": "Senior Services",
+            "turn_no": "450"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "S6 Re9, L15,W35, Ro35?",
+            "topic": "",
+            "turn_no": "451"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:451",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "yes",
+            "topic": "",
+            "turn_no": "452"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "nate:450",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "it would be very radical",
+            "topic": "Senior Services",
+            "turn_no": "453"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Agree-Accept",
+            "link_to": "kerri:452",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "agreed",
+            "topic": "",
+            "turn_no": "454"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:453",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "especially in a state other than FL",
+            "topic": "",
+            "turn_no": "455"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:451",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "i agreed to it",
+            "topic": "",
+            "turn_no": "456"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lisa:456",
+            "polarity": "",
+            "speaker": "jenifer",
+            "text": "k",
+            "topic": "",
+            "turn_no": "457"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jenifer:451",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, thats good",
+            "topic": "",
+            "turn_no": "458"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jenifer:451",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "great",
+            "topic": "",
+            "turn_no": "459"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "at least it's not 5 percent",
+            "topic": "",
+            "turn_no": "460"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "laura:459",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "im glad we could finally make an agreement :)",
+            "topic": "",
+            "turn_no": "461"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "laura:461",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "yea, this was a wierd one",
+            "topic": "",
+            "turn_no": "462"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "lisa:462",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "i agree",
+            "topic": "",
+            "turn_no": "463"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "laura:461",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "yeah!",
+            "topic": "",
+            "turn_no": "464"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "la la la la la",
+            "topic": "",
+            "turn_no": "465"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "lisa:465",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "......",
+            "topic": "",
+            "turn_no": "466"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "yeah, not much other info to go on",
+            "topic": "",
+            "turn_no": "467"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "nate:467",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "for such important decisions",
+            "topic": "",
+            "turn_no": "468"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "hahah just waiting for the survey i guess",
+            "topic": "",
+            "turn_no": "469"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "laura:469",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": ":)",
+            "topic": "",
+            "turn_no": "470"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "where is samira?",
+            "topic": "",
+            "turn_no": "471"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "lisa:471",
+            "polarity": "",
+            "speaker": "ilspersonnel",
+            "text": "There's my cue .. : = )",
+            "topic": "",
+            "turn_no": "472"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "ilspersonnel:472",
+            "polarity": "",
+            "speaker": "lisa",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "473"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel",
+            "text": "Hey everyone! Its almost time and here's where I remind you to fill out the survey when you leave.",
+            "topic": "",
+            "turn_no": "474"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Action-Directive",
+            "link_to": "ilspersonnel:474",
+            "polarity": "",
+            "speaker": "ilspersonnel",
+            "text": "http://scil.ils.albany.edu/survey_groupb.html",
+            "topic": "",
+            "turn_no": "475"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel",
+            "text": "Good night all!",
+            "topic": "",
+            "turn_no": "476"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "ilspersonnel:476",
+            "polarity": "",
+            "speaker": "laura",
+            "text": "good night!",
+            "topic": "",
+            "turn_no": "477"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "ilspersonnel:476",
+            "polarity": "",
+            "speaker": "kerri",
+            "text": "night!",
+            "topic": "",
+            "turn_no": "478"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "ilspersonnel:476",
+            "polarity": "",
+            "speaker": "nate",
+            "text": "bye",
+            "topic": "",
+            "turn_no": "479"
+        }
+    ]
+}

@@ -1,0 +1,5905 @@
+{
+    "date": "",
+    "turns": [
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "hey",
+            "topic": "transportation",
+            "turn_no": "1"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "jessicaf:1",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "hello. :-)",
+            "topic": "",
+            "turn_no": "2"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "information-request",
+            "link_to": "ilspersonnel2",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "do you know how this works? lol i havent done this yet",
+            "topic": "",
+            "turn_no": "3"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "jessicaf",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "Yes, please wait until others get here. There will be a leader who sort of facilitates the discussion. Have you reviewed the materials yet?",
+            "topic": "",
+            "turn_no": "4"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "no...i dont think i received them?",
+            "topic": "",
+            "turn_no": "5"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessicaf:3",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "don't worry its fun! B-)",
+            "topic": "",
+            "turn_no": "6"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessicaf",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "http://scil.ils.albany.edu/GroupB.html",
+            "topic": "",
+            "turn_no": "7"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Offer-Commit",
+            "link_to": "ilspersonnel2:7",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "k ill check it out now",
+            "topic": "",
+            "turn_no": "8"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "ilspersonnel2",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "ok read it",
+            "topic": "",
+            "turn_no": "9"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "heyy",
+            "topic": "",
+            "turn_no": "10"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "hey! :-D",
+            "topic": "",
+            "turn_no": "11"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "dk:11",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "hey",
+            "topic": "",
+            "turn_no": "12"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "how many people are signed up for group B this evening?",
+            "topic": "",
+            "turn_no": "13"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "so us summer olympics!",
+            "topic": "",
+            "turn_no": "14"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:14",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "yesss",
+            "topic": "",
+            "turn_no": "15"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "Nicole:14",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "16"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Danielle and I were just switched from Group C",
+            "topic": "",
+            "turn_no": "17"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Opening",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "Hey guys, this is Samira.",
+            "topic": "",
+            "turn_no": "18"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "carol:17",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "cooool",
+            "topic": "",
+            "turn_no": "19"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "carol:17",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I do not know what the topic is",
+            "topic": "",
+            "turn_no": "20"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:20",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "http://scil.ils.albany.edu/GroupB.html",
+            "topic": "",
+            "turn_no": "21"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "You may begin now.",
+            "topic": "",
+            "turn_no": "22"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "US summer Olympics",
+            "topic": "",
+            "turn_no": "23"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "dk:23",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "funnnn stuff",
+            "topic": "",
+            "turn_no": "24"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "The topic is the same for both groups this evening.",
+            "topic": "",
+            "turn_no": "25"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Greetings everyone, I have been asked to mod this group and this is my first time doing so",
+            "topic": "",
+            "turn_no": "26"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "dk:26",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "exciting lol",
+            "topic": "",
+            "turn_no": "27"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I think whether a city has held as sporting event recently is an indication of whether it is a serious contender.",
+            "topic": "",
+            "turn_no": "28"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "carol:28",
+            "polarity": "",
+            "speaker": "dk",
+            "text": ":^0",
+            "topic": "",
+            "turn_no": "29"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "dk:29",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Like a major team?",
+            "topic": "",
+            "turn_no": "30"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "well my choice is chicago",
+            "topic": "Chicago",
+            "turn_no": "31"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Information-Request",
+            "link_to": "Nicole:31",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Okay. I'm not good on football and baseball, so who would that be?",
+            "topic": "",
+            "turn_no": "32"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:28",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "I agree, I also think that it should be a new city that has not held the event yet",
+            "topic": "",
+            "turn_no": "33"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:28",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "I agree carol... ahd looks like LA is one of only 7 cities whish has hosted more than once..",
+            "topic": "Los Angeles",
+            "turn_no": "34"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:31",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "I think it should have held sporting events but not the olympics",
+            "topic": "Chicago",
+            "turn_no": "35"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessicaf:35",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i agree",
+            "topic": "",
+            "turn_no": "36"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:31",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Yes, the city has experience with crowds from the games",
+            "topic": "Chicago",
+            "turn_no": "37"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jessicaf:35",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "but i also think the fact that atlanta held the olympics so recently isn't so good...it's so recent",
+            "topic": "Atlanta ",
+            "turn_no": "38"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessamyn:38",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "yea, it lessens the excitement",
+            "topic": "Atlanta ",
+            "turn_no": "39"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "assertion-opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "St. Louis looked good at first, but looking harder, there's a reason it hasn't held an olympics since 1904",
+            "topic": "St. Loius",
+            "turn_no": "40"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "all the other cities held the international olympics except chicago",
+            "topic": "Chicago",
+            "turn_no": "41"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "Nicole:41",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "true",
+            "topic": "",
+            "turn_no": "42"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Spring in St. Louis can be terrible",
+            "topic": "St. Loius",
+            "turn_no": "43"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i'm intruiged by chicago",
+            "topic": "Chicago",
+            "turn_no": "44"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "Chicago I think would be a good choice...it was named the Best Sports City in 2006 which was pretty recent",
+            "topic": "Chicago",
+            "turn_no": "45"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jessicaf:45",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Transportation looks a little sketchy in Chicago tho =(",
+            "topic": "Chicago",
+            "turn_no": "46"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I agree about Chicagao",
+            "topic": "Chicago",
+            "turn_no": "47"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicaf:45",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "yea i wonder what that actually means though.. best sports city",
+            "topic": "",
+            "turn_no": "48"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:48",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "yea i don't know",
+            "topic": "",
+            "turn_no": "49"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Transportation in Atlanta looks horrible with the world's busiest airport",
+            "topic": "Atlanta ",
+            "turn_no": "50"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:50",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yea",
+            "topic": "",
+            "turn_no": "51"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "ive been to chicago... it's pretty",
+            "topic": "Chicago",
+            "turn_no": "52"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "And is a lack of precipitation a good or bad thing, i.e. Los Angeles?",
+            "topic": "Los Angeles",
+            "turn_no": "53"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:52",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "I think so",
+            "topic": "",
+            "turn_no": "54"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "jessicaf:54",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "I would hate to attend the olympics when it is raining",
+            "topic": "",
+            "turn_no": "55"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:53",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Probably good, less delays",
+            "topic": "",
+            "turn_no": "56"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "jessicaf:55",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "57"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:57",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "same",
+            "topic": "",
+            "turn_no": "58"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "what do we think the best temp would be?",
+            "topic": "",
+            "turn_no": "59"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "But what if there's no cooling down because of lack of precipitation?",
+            "topic": "",
+            "turn_no": "60"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "danielle:59",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "they all seem pretty similar",
+            "topic": "",
+            "turn_no": "61"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "St. Louis is humid according to Wikipedia",
+            "topic": "St. Loius",
+            "turn_no": "62"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i feel like st. louis is too hot, but the other temps are roughly the same",
+            "topic": "St. Loius",
+            "turn_no": "63"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Says there is no large body of water or mountains to moderate temperature in St. Louis",
+            "topic": "St. Loius",
+            "turn_no": "64"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessicaf:61",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "I agreed according to the provided information they seem very similar",
+            "topic": "",
+            "turn_no": "65"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Except it doesn't rain in LA",
+            "topic": "Los Angeles",
+            "turn_no": "66"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "What I did was think about my preconceptions of each city",
+            "topic": "",
+            "turn_no": "67"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:67",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "and put aside all the facts and figures",
+            "topic": "",
+            "turn_no": "68"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "the lake off chicago would support a nice breeze in the city",
+            "topic": "Chicago",
+            "turn_no": "69"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I thought St. Louis would not be multicultural enough, but then when I googled it, it came up pretty cosmopolitan and multicultural",
+            "topic": "St. Loius",
+            "turn_no": "70"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:69",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "\"The windy city\"",
+            "topic": "Chicago",
+            "turn_no": "71"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:71",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Chicago",
+            "topic": "Chicago",
+            "turn_no": "72"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:70",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I think multiculturalism is a given in Chicago, LA, and Atlanta",
+            "topic": "Chicago",
+            "turn_no": "73"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:73",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i agree with that",
+            "topic": "",
+            "turn_no": "74"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I think the temp in Chicago is moderated well by great lake",
+            "topic": "Chicago",
+            "turn_no": "75"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "My thoughts were out of the cities LA seems the most \"progressive\"",
+            "topic": "Los Angeles",
+            "turn_no": "76"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:76",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "Yea, and I think the big names would attract more people",
+            "topic": "Los Angeles",
+            "turn_no": "77"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "only 77% of people living in LA actually want to host it...",
+            "topic": "Los Angeles",
+            "turn_no": "78"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i don't feel like people would be that excited by \"st. louis\"",
+            "topic": "St. Loius",
+            "turn_no": "79"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "jessamyn:79",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "But apparently St. Louis population is excited to host",
+            "topic": "St. Loius",
+            "turn_no": "80"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "thats why i liked chicago as well...90% wanted to host it",
+            "topic": "Chicago",
+            "turn_no": "81"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:80",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i think it would have less of a draw",
+            "topic": "St. Loius",
+            "turn_no": "82"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "What was Chicago a recent contender for?",
+            "topic": "Chicago",
+            "turn_no": "83"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:83",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "Chicago was named the Best Sports City in the United States by The Sporting News in 1993 and 2006.",
+            "topic": "Chicago",
+            "turn_no": "84"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "the only reason i would think atlanta would be to increase their revenue",
+            "topic": "Atlanta ",
+            "turn_no": "85"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "information-request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "President Obama went to Chicago a couple of weeks ago to plug for the city. Was it for a future Olympics?",
+            "topic": "Chicago",
+            "turn_no": "86"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I think Atlanta's hosting of the Olympics was going well until the bomb.",
+            "topic": "Atlanta ",
+            "turn_no": "87"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:87",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "it lost out though",
+            "topic": "Chicago",
+            "turn_no": "88"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessamyn:88",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Chicago may have lost, but it was second.",
+            "topic": "Chicago",
+            "turn_no": "89"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:89",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "yes",
+            "topic": "",
+            "turn_no": "90"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessamyn:90",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i'm not saying it's bad because it lost out",
+            "topic": "Chicago",
+            "turn_no": "91"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "What do you guys think would be the top three things to consider for each city from most important to least from the suggested items?",
+            "topic": "",
+            "turn_no": "92"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:92",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "ie. Transport, Accomodations, Favor",
+            "topic": "",
+            "turn_no": "93"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:92",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Good weather. Athletes were not happy about setbacks in Vancouver.",
+            "topic": "climate",
+            "turn_no": "94"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:92",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "experience from past sports events, transportion",
+            "topic": "transportation",
+            "turn_no": "95"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessamyn:95",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "yea and weather",
+            "topic": "climate",
+            "turn_no": "96"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:92",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "budget is big too",
+            "topic": "budget",
+            "turn_no": "97"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:92",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "definitely transportation",
+            "topic": "transportation",
+            "turn_no": "98"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:92",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Transportation and accomodations",
+            "topic": "transportation",
+            "turn_no": "99"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:97",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "yea i agree with budget",
+            "topic": "budget",
+            "turn_no": "100"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:94",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "transportation is also becoming a disaster in Vancouver",
+            "topic": "transportation",
+            "turn_no": "101"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessamyn:101",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "recently an athlete was late to his event",
+            "topic": "transportation",
+            "turn_no": "102"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessamyn:102",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "that's a huge issue",
+            "topic": "transportation",
+            "turn_no": "103"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessamyn:103",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "true",
+            "topic": "",
+            "turn_no": "104"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jessamyn:102",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "yikess",
+            "topic": "",
+            "turn_no": "105"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "How about safety?",
+            "topic": "safety",
+            "turn_no": "106"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "dk:106",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "ummm, i guess if a place is unsafe people may be less likely to want to go there",
+            "topic": "safety",
+            "turn_no": "107"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:92",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I think the top athletes in the world would appreciate easy in and out, not getting stressed by delays in sporting events, and a good place to rest and work out",
+            "topic": "",
+            "turn_no": "108"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessicaf:107",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "i dont know know if safety would be top 3 tho",
+            "topic": "safety",
+            "turn_no": "109"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:108",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "kind of goes hand in hand with transportation almost",
+            "topic": "transportation",
+            "turn_no": "110"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:92",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I think the spectators want good weather, and a bargain",
+            "topic": "climate",
+            "turn_no": "111"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:111",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Thats a good one, cost of admission maybe",
+            "topic": "bargain",
+            "turn_no": "112"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "would a higher budget mean cheaper admission?",
+            "topic": "budget",
+            "turn_no": "113"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Spectators certainly don't want to spend alot of money on hotel, particularly if not there much, because at sporting events",
+            "topic": "bargain",
+            "turn_no": "114"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "well whomever is chosen will have to have enough room to support the amount of athletes traveling to it, like chicago has a 6 million budget for the athletes as well as 6 million for the event itself",
+            "topic": "",
+            "turn_no": "115"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i don't know if i agree wit the bargain part...i don't think the olympics have ever been something associated with a bargain",
+            "topic": "bargain",
+            "turn_no": "116"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "carol:114",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "I think people going to the olympics would be willing to pay a lot though",
+            "topic": "",
+            "turn_no": "117"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:117",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "yes",
+            "topic": "",
+            "turn_no": "118"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Often the olympics have put a tremendous economic burden on cities",
+            "topic": "",
+            "turn_no": "119"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:119",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Sorry. I wasn't referring to tickets, I was referring to city for bargain",
+            "topic": "",
+            "turn_no": "120"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "carol:120",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Oh my mistake",
+            "topic": "",
+            "turn_no": "121"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:120",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "People don't like feeling ripped off",
+            "topic": "bargain",
+            "turn_no": "122"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "dk:119",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "Really? i would think they help out the city;s economy",
+            "topic": "",
+            "turn_no": "123"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Many cities, including Athens, hosted games at a loss",
+            "topic": "",
+            "turn_no": "124"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "they probably profit in other ways",
+            "topic": "",
+            "turn_no": "125"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicaf:125",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "gain notoriety, bring tourism",
+            "topic": "",
+            "turn_no": "126"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Should we expect the same level of fit and finish for the American Olympics as the Worldwide Olympics?",
+            "topic": "",
+            "turn_no": "127"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:127",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "If people come back again",
+            "topic": "",
+            "turn_no": "128"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:127",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Yes, this is for the American Olympics, so athletes and spectators are familiar with U.S.",
+            "topic": "",
+            "turn_no": "129"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "So, if each one of us could choose to vacation in one of these cities, which one would we choose?",
+            "topic": "",
+            "turn_no": "130"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "carol:130",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "chicago also has a variety of transportation options, including amtrak, multiple airports, and buses",
+            "topic": "Chicago",
+            "turn_no": "131"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:131",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Agreed.",
+            "topic": "Chicago",
+            "turn_no": "132"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:132",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Chicago also has many attractions, but I guess other cities do as well",
+            "topic": "Chicago",
+            "turn_no": "133"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:133",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "and a beautiful lake",
+            "topic": "Chicago",
+            "turn_no": "134"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I guess when I think of Atlanta and LA, I think of sweltering sun",
+            "topic": "Atlanta ",
+            "turn_no": "135"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:135",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "agreed",
+            "topic": "Atlanta ",
+            "turn_no": "136"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I like Chicago",
+            "topic": "Chicago",
+            "turn_no": "137"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:130",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i would pick to vacation in chicago",
+            "topic": "Chicago",
+            "turn_no": "138"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "they also have a big tourism industry",
+            "topic": "",
+            "turn_no": "139"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "How much do the great lakes play to cooling Chicago",
+            "topic": "Chicago",
+            "turn_no": "140"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicaf:139",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "which would mean there would be a lot of high quality options for visitors",
+            "topic": "",
+            "turn_no": "141"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicaf:141",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "in all areas",
+            "topic": "",
+            "turn_no": "142"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessicaf:139",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "that's a good point",
+            "topic": "",
+            "turn_no": "143"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Beaches on the lake",
+            "topic": "Chicago",
+            "turn_no": "144"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:144",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Amusement park on the lake with big ferris wheel",
+            "topic": "Chicago",
+            "turn_no": "145"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "they also have great shopping",
+            "topic": "Chicago",
+            "turn_no": "146"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Top notch museums in Chicago",
+            "topic": "Chicago",
+            "turn_no": "147"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "historical buildings",
+            "topic": "Chicago",
+            "turn_no": "148"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Chicago has beautiful gardens in the medians of the roads in the City",
+            "topic": "Chicago",
+            "turn_no": "149"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "I think this is where we would consider the city's safety",
+            "topic": "safety",
+            "turn_no": "150"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:148",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "and millenium park is pretty swell",
+            "topic": "Chicago",
+            "turn_no": "151"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Has anyone looked up stats on crime in these cities?",
+            "topic": "safety",
+            "turn_no": "152"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Safety is a top thing in my book",
+            "topic": "safety",
+            "turn_no": "153"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:152",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yes",
+            "topic": "",
+            "turn_no": "154"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Lots of people collected can cause huge problems",
+            "topic": "",
+            "turn_no": "155"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "Atlanta is supposed to have a pretty high crime rate right?",
+            "topic": "Atlanta ",
+            "turn_no": "156"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "dk:155",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Except as we saw in Atlanta, one man can cause enormous harm.",
+            "topic": "Atlanta ",
+            "turn_no": "157"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:156",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i don't know statistic wise but i've been there and i would have to agree with that statement",
+            "topic": "Atlanta ",
+            "turn_no": "158"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "I believe Chicago has high crime",
+            "topic": "Chicago",
+            "turn_no": "159"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessamyn:158",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "didn't have the best of experiences",
+            "topic": "Atlanta ",
+            "turn_no": "160"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Is Chicago any more dangerous than other 3?",
+            "topic": "Chicago",
+            "turn_no": "161"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:161",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "comparitively chicago is low",
+            "topic": "Chicago",
+            "turn_no": "162"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Then Chicago really has alot going for it",
+            "topic": "Chicago",
+            "turn_no": "163"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:163",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "lol yes",
+            "topic": "Chicago",
+            "turn_no": "164"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:163",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "yes it does",
+            "topic": "Chicago",
+            "turn_no": "165"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:163",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Apparently! B-)",
+            "topic": "Chicago",
+            "turn_no": "166"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Is there any factor against Chicago?",
+            "topic": "Chicago",
+            "turn_no": "167"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:167",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "i don't see one lol",
+            "topic": "Chicago",
+            "turn_no": "168"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:167",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "not that i see",
+            "topic": "Chicago",
+            "turn_no": "169"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:169",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "at least compared to the others",
+            "topic": "",
+            "turn_no": "170"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Public opinion seems very good, lots of tourism",
+            "topic": "Chicago",
+            "turn_no": "171"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Well, how about that it has to build the Olympic Village instead of already having one?",
+            "topic": "Chicago",
+            "turn_no": "172"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "carol:172",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "They would be more modern",
+            "topic": "Chicago",
+            "turn_no": "173"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:173",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "that's true, and i think the fact that it is a new city that has not had the olympics yet is exciting",
+            "topic": "Chicago",
+            "turn_no": "174"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "What about the possibility of construction delays and cost overruns? Workers going on strike?",
+            "topic": "Chicago",
+            "turn_no": "175"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "well the other cities have villages because they already had a chance to host the olympics",
+            "topic": "",
+            "turn_no": "176"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "how exactly do olympic villages work?",
+            "topic": "",
+            "turn_no": "177"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "What if the athletes found their own housing?",
+            "topic": "",
+            "turn_no": "178"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "jessamyn:177",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "what are they like?",
+            "topic": "",
+            "turn_no": "179"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Do we know anything about the history of those cities building their villages?",
+            "topic": "",
+            "turn_no": "180"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessamyn:177",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Lodging for athletes pretty much",
+            "topic": "",
+            "turn_no": "181"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:181",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Often the villages are converted or sold",
+            "topic": "",
+            "turn_no": "182"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:182",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "added to the cities building infrastructure",
+            "topic": "",
+            "turn_no": "183"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "dk:181",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "interesting",
+            "topic": "",
+            "turn_no": "184"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Could be good or bad depending on many factors",
+            "topic": "",
+            "turn_no": "185"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "dk:178",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I don't think athletes finding their own housing is an option given the way the games and training work",
+            "topic": "",
+            "turn_no": "186"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:185",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "valid point",
+            "topic": "",
+            "turn_no": "187"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:185",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "this is very true",
+            "topic": "",
+            "turn_no": "188"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "well chicago has 6 million set aside to set up these villages and has the room to build themm",
+            "topic": "Chicago",
+            "turn_no": "189"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Does 6 million really sound like much?",
+            "topic": "",
+            "turn_no": "190"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:190",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yes",
+            "topic": "Chicago",
+            "turn_no": "191"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:190",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "no",
+            "topic": "Chicago",
+            "turn_no": "192"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "Nicole:191",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "to me it doesnt but i'm not an architect/ city planner",
+            "topic": "Chicago",
+            "turn_no": "193"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "i think chicago has the most set aside overall right?",
+            "topic": "Chicago",
+            "turn_no": "194"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "danielle:194",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "12 all together",
+            "topic": "",
+            "turn_no": "195"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Okay. So, are we agreed that not already having a village is not a drawback?",
+            "topic": "Chicago",
+            "turn_no": "196"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:196",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "agreed",
+            "topic": "Chicago",
+            "turn_no": "197"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "LA has 10 mill",
+            "topic": "Los Angeles",
+            "turn_no": "198"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I think St. Louis pledged the most.",
+            "topic": "St. Loius",
+            "turn_no": "199"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "carol:199",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "but there hot and have bad crime s",
+            "topic": "St. Loius",
+            "turn_no": "200"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "chicago has 6mil for the village and then 6mil in addition",
+            "topic": "Chicago",
+            "turn_no": "201"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:201",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "exactly",
+            "topic": "",
+            "turn_no": "202"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "is 77 degrees hot?",
+            "topic": "",
+            "turn_no": "203"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "dk:203",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "ooo ok i didnt realize that",
+            "topic": "",
+            "turn_no": "204"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:203",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "its not that bad",
+            "topic": "",
+            "turn_no": "205"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jessicaf:205",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "206"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:206",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "77 is perfect",
+            "topic": "",
+            "turn_no": "207"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Why was Chicago named Best Sports City?",
+            "topic": "Chicago",
+            "turn_no": "208"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:208",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "because everyones enthusiastic about sports in chicago",
+            "topic": "Chicago",
+            "turn_no": "209"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:203",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Wikipedia says St. Louis is very humid, so 77 there is not like a dry 77 in LA",
+            "topic": "St. Loius",
+            "turn_no": "210"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "carol:210",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Yikes",
+            "topic": "",
+            "turn_no": "211"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:211",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "that...lake",
+            "topic": "",
+            "turn_no": "212"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "So, it doesn't have to do with Chicago already having lots of sports sites?",
+            "topic": "Chicago",
+            "turn_no": "213"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "carol:213",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "they have great teams, the bulls, the bears and the cubs",
+            "topic": "Chicago",
+            "turn_no": "214"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:213",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "i think it has to do with their major league teams",
+            "topic": "",
+            "turn_no": "215"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "But do they already have all the stadiums necessary for hosting the games?",
+            "topic": "Chicago",
+            "turn_no": "216"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:216",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yes",
+            "topic": "Chicago",
+            "turn_no": "217"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:216",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Stadiums good poin",
+            "topic": "",
+            "turn_no": "218"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "dk:218",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "point",
+            "topic": "",
+            "turn_no": "219"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:219",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "plus many can be converted for many uses",
+            "topic": "",
+            "turn_no": "220"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "So, in Chicago, village might be only thing that needs to be built",
+            "topic": "Chicago",
+            "turn_no": "221"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "they also have great food",
+            "topic": "Chicago",
+            "turn_no": "222"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i wonder what the other $6 million would be going to then",
+            "topic": "",
+            "turn_no": "223"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessamyn:223",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "probably converting stadiums and equipment",
+            "topic": "",
+            "turn_no": "224"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessamyn:223",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "sporting facilities",
+            "topic": "",
+            "turn_no": "225"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:225",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "management costs",
+            "topic": "",
+            "turn_no": "226"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "jessamyn:223",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "\"purposes of the event\"",
+            "topic": "",
+            "turn_no": "227"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessicaf:227",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "mauybe paying workers",
+            "topic": "",
+            "turn_no": "228"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessamyn:223",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Promotion",
+            "topic": "",
+            "turn_no": "229"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessamyn:223",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "cleaning",
+            "topic": "",
+            "turn_no": "230"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessamyn:223",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "advertising",
+            "topic": "",
+            "turn_no": "231"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessamyn:223",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "security",
+            "topic": "",
+            "turn_no": "232"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "well it seems to me that they could maybe amplify other areas better than other citys because they can allocate more money to those other things",
+            "topic": "Chicago",
+            "turn_no": "233"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Offer-Commit",
+            "link_to": "carol",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "i found the article about chicago being the best sports city",
+            "topic": "Chicago",
+            "turn_no": "234"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "danielle:234",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "doesnt tell you why though",
+            "topic": "",
+            "turn_no": "235"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Action-Directive",
+            "link_to": "danielle:235",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "http://www.sportingnews.com/yourturn/viewtopic.php?t=113606",
+            "topic": "",
+            "turn_no": "236"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Interesting that Atlanta figures only $3 million for building village, while Chicago has $6 million pledged. But Atlanta also has George University residential dorms for housing",
+            "topic": "Atlanta ",
+            "turn_no": "237"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:237",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "even bigger than that is :A",
+            "topic": "Los Angeles",
+            "turn_no": "238"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "danielle:238",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "*LA",
+            "topic": "Los Angeles",
+            "turn_no": "239"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "danielle:239",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "they have an olympic village already and an additional $10 mil set aside",
+            "topic": "Los Angeles",
+            "turn_no": "240"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "LA is not specific to housing",
+            "topic": "Los Angeles",
+            "turn_no": "241"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "it's odd thinking about some famous athletes living in dorms",
+            "topic": "",
+            "turn_no": "242"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "jessamyn:242",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Isn't it about the love of the sport/competition",
+            "topic": "",
+            "turn_no": "243"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "The Chinese married couple who won the gold in pair skating did not get to sleep together",
+            "topic": "",
+            "turn_no": "244"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:244",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "That's training for you!",
+            "topic": "",
+            "turn_no": "245"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:243",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "rather than the amentities",
+            "topic": "",
+            "turn_no": "246"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "carol:245",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "LOL",
+            "topic": "",
+            "turn_no": "247"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "danielle:238",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "LA is very warm though",
+            "topic": "Los Angeles",
+            "turn_no": "248"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:248",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": ", with not much wind or rain",
+            "topic": "Los Angeles",
+            "turn_no": "249"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "LA has a very crazy airport",
+            "topic": "Los Angeles",
+            "turn_no": "250"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Who's been to Chicago's airport?",
+            "topic": "Chicago",
+            "turn_no": "251"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "LA has horrible traffic",
+            "topic": "Los Angeles",
+            "turn_no": "252"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicaf:252",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "it already attracts enough tourists",
+            "topic": "Los Angeles",
+            "turn_no": "253"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:251",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i have",
+            "topic": "",
+            "turn_no": "254"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "Nicole",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "What did you think of it Nicole?",
+            "topic": "",
+            "turn_no": "255"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "In my opinion many of the cities mentioned have congestion problems",
+            "topic": "",
+            "turn_no": "256"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "LA's weather is probably comfortable in May",
+            "topic": "Los Angeles",
+            "turn_no": "257"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:255",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i thought it was ok. Im from new york so im use to busy airports. but i guess it depends what time you go.. i figure either way it will be crowded because of the olympics",
+            "topic": "Los Angeles",
+            "turn_no": "258"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:258",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "true",
+            "topic": "",
+            "turn_no": "259"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Well, Atlanta has a big congestion problem because it grew so fast",
+            "topic": "Atlanta ",
+            "turn_no": "260"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:260",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Extra crowded even",
+            "topic": "Atlanta ",
+            "turn_no": "261"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "i feel like LA is really conjested as well",
+            "topic": "Los Angeles",
+            "turn_no": "262"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "but being a busy city isnt necessarily a bad thing... they're used to the extra people",
+            "topic": "",
+            "turn_no": "263"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "danielle:263",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "but they don't need anymore",
+            "topic": "",
+            "turn_no": "264"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "We have to also think that this would'nt be as many people visiting as an international olympics",
+            "topic": "",
+            "turn_no": "265"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Is Chicago pretty central so that no part of country given an extra long trip to get there?",
+            "topic": "Chicago",
+            "turn_no": "266"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:266",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Right, in terms of different teams/support staff and viewers",
+            "topic": "",
+            "turn_no": "267"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "dk:267",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yes, but it would still be alot of people",
+            "topic": "",
+            "turn_no": "268"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:266",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i would say so",
+            "topic": "",
+            "turn_no": "269"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "dk:267",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "yes but a lot of them have hosted olympics in the past, so if they were able to hold all of those people...",
+            "topic": "",
+            "turn_no": "270"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "thats true",
+            "topic": "",
+            "turn_no": "271"
+        },
+        {
+            "comm_act_type": "",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "The sheet says that this is \"open to all athletes from the United States.\"",
+            "topic": "",
+            "turn_no": "272"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:272",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "right",
+            "topic": "",
+            "turn_no": "273"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:272",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Might create a bigger crowd than international Olympics.",
+            "topic": "",
+            "turn_no": "274"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:274",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "If everyone thinks they can win.",
+            "topic": "",
+            "turn_no": "275"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:274",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Granted there has to be some level of selection",
+            "topic": "",
+            "turn_no": "276"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "i meant more about people coming to watch",
+            "topic": "",
+            "turn_no": "277"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "more people would travel to watch, if close enough",
+            "topic": "",
+            "turn_no": "278"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:278",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Well, it could be like American Idol trials.",
+            "topic": "",
+            "turn_no": "279"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "so it is only people from the US?",
+            "topic": "",
+            "turn_no": "280"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "jessicaf:280",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Only open to US",
+            "topic": "",
+            "turn_no": "281"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "People might not be coming and staying for a week like if it was a different country",
+            "topic": "",
+            "turn_no": "282"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "danielle:282",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "But if they haven't narrowed it down, like nationals do for Olympics, then there could be all sorts of people there",
+            "topic": "",
+            "turn_no": "283"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "How would teams be grouped?",
+            "topic": "",
+            "turn_no": "284"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "dk:284",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "By State?",
+            "topic": "",
+            "turn_no": "285"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:284",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i would think so.. like the best from each state",
+            "topic": "",
+            "turn_no": "286"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:286",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "if that state puts together a team",
+            "topic": "",
+            "turn_no": "287"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "dk:287",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "right",
+            "topic": "",
+            "turn_no": "288"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:286",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "There's nothing that indicates it's by state",
+            "topic": "",
+            "turn_no": "289"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "carol:289",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "hmmm",
+            "topic": "",
+            "turn_no": "290"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Well i mean for discussion",
+            "topic": "",
+            "turn_no": "291"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "what if it was every man for themselves?",
+            "topic": "",
+            "turn_no": "292"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "no, but usually each states hosts it own teams",
+            "topic": "",
+            "turn_no": "293"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "how else would they do it tho? if international is by country im assuming national would be by state",
+            "topic": "",
+            "turn_no": "294"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Just an idea",
+            "topic": "",
+            "turn_no": "295"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicaf:294",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "just like if it were a state olympics it would be by town prolly",
+            "topic": "",
+            "turn_no": "296"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "what do you mean usually?",
+            "topic": "",
+            "turn_no": "297"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "how else could it be done? Independent teams?",
+            "topic": "",
+            "turn_no": "298"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "But then how is it \"open to all athletes from the US\"?",
+            "topic": "",
+            "turn_no": "299"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:299",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "If you are an American",
+            "topic": "",
+            "turn_no": "300"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:298",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Qualifiers as to time for running, scores, etc.",
+            "topic": "",
+            "turn_no": "301"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:300",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "If you are from anywhere else too bad",
+            "topic": "",
+            "turn_no": "302"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:299",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "meaning all types of athletes",
+            "topic": "",
+            "turn_no": "303"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Well, if it's by state, then we have 50 states, which might even be more than number of countries participating in winter Olympics",
+            "topic": "",
+            "turn_no": "304"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "What do you think about a bracket system?",
+            "topic": "",
+            "turn_no": "305"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "dk:305",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Leading up to the Olympics, which could be the final game",
+            "topic": "",
+            "turn_no": "306"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:304",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "The nationals/Olympics trials are not done by state",
+            "topic": "",
+            "turn_no": "307"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "dk:306",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "for each sport",
+            "topic": "",
+            "turn_no": "308"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "im thinking it would be a lower amount of people then the international olympics but not significantly",
+            "topic": "",
+            "turn_no": "309"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:309",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "That was my feeling too",
+            "topic": "",
+            "turn_no": "310"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:309",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Well, it could be lower, but it could also be the chaos of the American Idol tryouts",
+            "topic": "",
+            "turn_no": "311"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "carol:311",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Anyone see American Idol Rewind?",
+            "topic": "",
+            "turn_no": "312"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:312",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Nuts, nuts, and nuts.",
+            "topic": "",
+            "turn_no": "313"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "carol:311",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "hmmm...i dunno. it could be lower because of a small interested population but higher because it is convenient for americans to go to",
+            "topic": "",
+            "turn_no": "314"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:312",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "no",
+            "topic": "",
+            "turn_no": "315"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicaf:314",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "and they might be excited for their won olypmics",
+            "topic": "",
+            "turn_no": "316"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessicaf:316",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "agreed",
+            "topic": "",
+            "turn_no": "317"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "jessicaf:316",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "*own",
+            "topic": "",
+            "turn_no": "318"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I think the Special Olympics gets a big crowd",
+            "topic": "",
+            "turn_no": "319"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "information-request",
+            "link_to": "carol:319",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Is it televised? I never really hear too much about it",
+            "topic": "",
+            "turn_no": "320"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:320.1",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "me either",
+            "topic": "",
+            "turn_no": "321"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "But how many people from China alone are in Vancouver right now?",
+            "topic": "",
+            "turn_no": "322"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Signal-Non-Understanding",
+            "link_to": "danielle:322",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "?",
+            "topic": "",
+            "turn_no": "323"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Information-Request",
+            "link_to": "danielle:322",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Competing?",
+            "topic": "",
+            "turn_no": "324"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:324",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "no i mean how many people come to watch",
+            "topic": "",
+            "turn_no": "325"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "danielle:325",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "hmmmm",
+            "topic": "",
+            "turn_no": "326"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "danielle:325",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Of, those of which who traveled",
+            "topic": "",
+            "turn_no": "327"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "dk:327",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "no idea",
+            "topic": "",
+            "turn_no": "328"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "",
+            "link_to": "Nicole:328",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "me neither, do you think its that many?",
+            "topic": "",
+            "turn_no": "329"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "I did see the opening ceremony",
+            "topic": "",
+            "turn_no": "330"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "dk:330",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "didn't",
+            "topic": "",
+            "turn_no": "331"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:330",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "neither did i",
+            "topic": "",
+            "turn_no": "332"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "idk I'm wondering if people from other countries travel",
+            "topic": "",
+            "turn_no": "333"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:329.1",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "yea",
+            "topic": "",
+            "turn_no": "334"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "danielle:322",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I would think that there are a large number of people from China and Japan, but not as many as from the US and Canada, given the ease of travel this time for US and Canada",
+            "topic": "",
+            "turn_no": "335"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "danielle:322",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "personally, i dont think i woudl travel unless my own country was participating",
+            "topic": "",
+            "turn_no": "336"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "one athlete is getting married soon after and their mother said they could only attend one",
+            "topic": "",
+            "turn_no": "337"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "danielle:333",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Im sure there are some... ?:|",
+            "topic": "",
+            "turn_no": "338"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessamyn:337",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "because it was too much traveling",
+            "topic": "",
+            "turn_no": "339"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "look at the beautifulness that chicago beholds: http://www.richard-seaman.com/USA/Cities/Chicago/Landmarks/ChicagoSkyline1.jpg",
+            "topic": "Chicago",
+            "turn_no": "340"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessamyn:339",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "so if the mother couldn't travel...i'm not sure how many other people can afford that",
+            "topic": "",
+            "turn_no": "341"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "jessamyn:337",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "yea I remember hearing that",
+            "topic": "",
+            "turn_no": "342"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "Nicole:340",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Cool pic",
+            "topic": "Chicago",
+            "turn_no": "343"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Some families are being sponsored",
+            "topic": "",
+            "turn_no": "344"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "Nicole:340",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Yes, nice pic",
+            "topic": "Chicago",
+            "turn_no": "345"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "Do you think most of the people watching the games are family or just supporting their country in general",
+            "topic": "",
+            "turn_no": "346"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "danielle:346",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "More for spectators",
+            "topic": "",
+            "turn_no": "347"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Well is more spectators than family",
+            "topic": "",
+            "turn_no": "348"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "dk:348",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "there*",
+            "topic": "",
+            "turn_no": "349"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:347",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "But there are alot of family there. NBC focuses on them in the audience.",
+            "topic": "",
+            "turn_no": "350"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "just found this about the beijing olympics",
+            "topic": "",
+            "turn_no": "351"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "danielle:351",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "Beijing expects 550,000 international visitors and 2.4 million domestic spectators",
+            "topic": "",
+            "turn_no": "352"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "danielle:352",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "thats a lot of people...",
+            "topic": "",
+            "turn_no": "353"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "danielle:352",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Beijing was really hyped ip",
+            "topic": "",
+            "turn_no": "354"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "danielle:352",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "wow",
+            "topic": "",
+            "turn_no": "355"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "danielle:352",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "hmm",
+            "topic": "",
+            "turn_no": "356"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "My roommate then was from China and he said that Chinese people were really excited",
+            "topic": "",
+            "turn_no": "357"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:357",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "it was a thing of national pride",
+            "topic": "",
+            "turn_no": "358"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "China put alot of money into the Olympics",
+            "topic": "",
+            "turn_no": "359"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:358",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "A lot has to do with showing off to the world",
+            "topic": "",
+            "turn_no": "360"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:359",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Unfortunately, the buildings have not thereafter been used the way it was anticipated",
+            "topic": "",
+            "turn_no": "361"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "This is about Vancouver: Maximum estimate of money, in billions, being spent on Olympic security 10.2 Read more: http://www.nationalpost.com/related/links/story.html?id=2543604#ixzz0g1zGIEq7  The National Post is now on Facebook. Join our fan community today.",
+            "topic": "",
+            "turn_no": "362"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "danielle:362",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "10.2 billion!",
+            "topic": "",
+            "turn_no": "363"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "danielle:363",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "wow",
+            "topic": "",
+            "turn_no": "364"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessamyn:364",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "that si so much money",
+            "topic": "",
+            "turn_no": "365"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Do you think the National games would have as big of a sentiment to Americans?",
+            "topic": "",
+            "turn_no": "366"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "yea.... so this is gonna have to be wayyy smaller in scale",
+            "topic": "",
+            "turn_no": "367"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:366",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i think it would",
+            "topic": "",
+            "turn_no": "368"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:367",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "i agree, much smaller",
+            "topic": "",
+            "turn_no": "369"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "10.2 billion is less than $40.00 per person in the US",
+            "topic": "",
+            "turn_no": "370"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "danielle:367",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "mmhmm",
+            "topic": "",
+            "turn_no": "371"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:313",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "We have a population of approximately 300 million",
+            "topic": "",
+            "turn_no": "372"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:372",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Of course that includes children and babies",
+            "topic": "",
+            "turn_no": "373"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "The nationals, I believe, are held in different places and at different times.",
+            "topic": "",
+            "turn_no": "374"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:374",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Done on a sport by sport basis.",
+            "topic": "",
+            "turn_no": "375"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Information-Request",
+            "link_to": "carol:374",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Qualifiers?",
+            "topic": "",
+            "turn_no": "376"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "So, this idea of a US Olympics, I believe, would be a new thing for the US, putting all sports together in one period of time.",
+            "topic": "",
+            "turn_no": "377"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:376",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Yes, nationals/Olympic trials are qualifiers.",
+            "topic": "",
+            "turn_no": "378"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "carol:378",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "That's how they select who is going to the International Olympics.",
+            "topic": "",
+            "turn_no": "379"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "carol:379",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "ooooo",
+            "topic": "",
+            "turn_no": "380"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicaf:380",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "that makes sense",
+            "topic": "",
+            "turn_no": "381"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "In my opinion the final games would be all in the same perhaps week, but the qualifiers between states to narrow the number of athletes would have to be done way in advance",
+            "topic": "",
+            "turn_no": "382"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "are we all in agreement that the us olympics should be held in chicago?",
+            "topic": "Chicago",
+            "turn_no": "383"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:382",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Agreed dk, but don't know about by state",
+            "topic": "",
+            "turn_no": "384"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:384",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "i agree",
+            "topic": "Chicago",
+            "turn_no": "385"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "Nicole:383",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Yeah that was the sentiment",
+            "topic": "Chicago",
+            "turn_no": "386"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "Nicole:383",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I'm for Chicago",
+            "topic": "Chicago",
+            "turn_no": "387"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:383",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "agreed",
+            "topic": "Chicago",
+            "turn_no": "388"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:383",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "Yep",
+            "topic": "Chicago",
+            "turn_no": "389"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "But we still have 1/2 hour to go",
+            "topic": "",
+            "turn_no": "390"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:390",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "ok just checking",
+            "topic": "",
+            "turn_no": "391"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "There would have to be some method to limit the number of people who play",
+            "topic": "",
+            "turn_no": "392"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:392",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "That's what the International Olympics does",
+            "topic": "",
+            "turn_no": "393"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:393",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Number of athletes from each country is limited for each sport",
+            "topic": "",
+            "turn_no": "394"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:394",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I think there is a tie in to past performance",
+            "topic": "",
+            "turn_no": "395"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:392",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "otherwise there will be 50,000 teams for basketball :-p",
+            "topic": "",
+            "turn_no": "396"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "There would probably be qualifiers I think where it says \"open to all athletes from the United States\" doesn't mean everyyyyone will be playing that one week",
+            "topic": "",
+            "turn_no": "397"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:397",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "thatd be impossible lol",
+            "topic": "",
+            "turn_no": "398"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessicaf:398",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "haha yeah",
+            "topic": "",
+            "turn_no": "399"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:399",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Right just the top teams would be playing",
+            "topic": "",
+            "turn_no": "400"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "But doesn't say how it's narrowed. And I'm not saying this because I'm a fan of American Idol, but because I've seen the Rewind, and you should see the crowds they get and how they narrow down",
+            "topic": "",
+            "turn_no": "401"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:401",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "The streets are full of people waiting in line to tryout",
+            "topic": "",
+            "turn_no": "402"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "are there definitely qualifiers? or maybe its based on past performance?",
+            "topic": "",
+            "turn_no": "403"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicaf:403",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "actually nevermind, then it prolly wouldnt say open to all US teams",
+            "topic": "",
+            "turn_no": "404"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "But if want professional games, have to narrow greatly",
+            "topic": "",
+            "turn_no": "405"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Information-Request",
+            "link_to": "carol:405",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "in the actual olympics.. or for this?",
+            "topic": "",
+            "turn_no": "406"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "danielle:406",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "i was thinking of for this lol",
+            "topic": "",
+            "turn_no": "407"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "jessicaf:403",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "I was thinking qualifiers because then there is a level playing field, just skill and points",
+            "topic": "",
+            "turn_no": "408"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:408",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "agreed",
+            "topic": "",
+            "turn_no": "409"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:408",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "agreed",
+            "topic": "",
+            "turn_no": "410"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:408",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "yea, that makes sense. plus everyone gets a chance to work hard and prove themselves",
+            "topic": "",
+            "turn_no": "411"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "Nicole:409",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "sorry i take a long time to read",
+            "topic": "",
+            "turn_no": "412"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "The games could go local - state - regional - national",
+            "topic": "",
+            "turn_no": "413"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessicaf:411",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "exactly",
+            "topic": "",
+            "turn_no": "414"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:413",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "yea",
+            "topic": "",
+            "turn_no": "415"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:413",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "that sounds perfect",
+            "topic": "",
+            "turn_no": "416"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "The qualifiers alone would be a huge TV deal I would think",
+            "topic": "",
+            "turn_no": "417"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:417",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "just seeing your team rise",
+            "topic": "",
+            "turn_no": "418"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:413",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "yea, when i played soccer thats how the big competitive games worked",
+            "topic": "",
+            "turn_no": "419"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessicaf:419",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "right",
+            "topic": "",
+            "turn_no": "420"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:413",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Well, there's already a setup for some sports in the US that way",
+            "topic": "",
+            "turn_no": "421"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:421",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "exactly",
+            "topic": "",
+            "turn_no": "422"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:421",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I think wrestling and the martial arts",
+            "topic": "",
+            "turn_no": "423"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:421",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Soccer, maybe",
+            "topic": "",
+            "turn_no": "424"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "How would professional athletes be added to the mix?",
+            "topic": "",
+            "turn_no": "425"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:425",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "We do have national champions.",
+            "topic": "",
+            "turn_no": "426"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Should their be a professional league and average joe league?",
+            "topic": "",
+            "turn_no": "427"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "dk:427",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "or everyone is mixed together?",
+            "topic": "",
+            "turn_no": "428"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:425",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Olympics is open to all athletes. Years ago, couldn't be professional. Had to be amateur.",
+            "topic": "",
+            "turn_no": "429"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:427",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "professional",
+            "topic": "",
+            "turn_no": "430"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:430",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i like not having professionals",
+            "topic": "",
+            "turn_no": "431"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:427",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "i was assuming professional but i honestely dont know a lot about this stuff",
+            "topic": "",
+            "turn_no": "432"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:429",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "That's when the Soviet Union and other countries supplied a living to all their athletes, and US athletes had to scrape by one way or the other, hoping to get paid for being in commercials.",
+            "topic": "",
+            "turn_no": "433"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "we don't want to be the butt of everyones jokes by having just anyone play",
+            "topic": "",
+            "turn_no": "434"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:434",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "but it does say any american",
+            "topic": "",
+            "turn_no": "435"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Information-Request",
+            "link_to": "dk:435",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "so all \"professional\" athletes?",
+            "topic": "",
+            "turn_no": "436"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:434",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "but that kinda already happens",
+            "topic": "",
+            "turn_no": "437"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "dk:436",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Not limited to professional",
+            "topic": "",
+            "turn_no": "438"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "dk:437",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "but i don't think they meant it by actually anyone",
+            "topic": "",
+            "turn_no": "439"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "Nicole:439",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "hmmm",
+            "topic": "",
+            "turn_no": "440"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:440",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "I took it as any American can play",
+            "topic": "",
+            "turn_no": "441"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:441",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "but that was just me",
+            "topic": "",
+            "turn_no": "442"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:441",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "yea I think Its generally open to all Americans, but they have to qualify to move on...",
+            "topic": "",
+            "turn_no": "443"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:443",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Agree with Danielle",
+            "topic": "",
+            "turn_no": "444"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:443",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "agreed",
+            "topic": "",
+            "turn_no": "445"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicaf:445",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "if u have the talent then u should get a chance to show it",
+            "topic": "",
+            "turn_no": "446"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessicaf:446",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yes",
+            "topic": "",
+            "turn_no": "447"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "anyone make a team and prove themselves to be good",
+            "topic": "",
+            "turn_no": "448"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "So, it will be a crowd",
+            "topic": "",
+            "turn_no": "449"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:449",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "yes",
+            "topic": "",
+            "turn_no": "450"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "And Chicago can absorb them",
+            "topic": "",
+            "turn_no": "451"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:451",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "agreed",
+            "topic": "",
+            "turn_no": "452"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Chicago would be the final game or final 4 games",
+            "topic": "",
+            "turn_no": "453"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:453",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "something like that",
+            "topic": "",
+            "turn_no": "454"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:454",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "of each sport",
+            "topic": "",
+            "turn_no": "455"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:455",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "right",
+            "topic": "",
+            "turn_no": "456"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:453",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i think maybe final 4",
+            "topic": "",
+            "turn_no": "457"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "What sports do you think should be played?",
+            "topic": "",
+            "turn_no": "458"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:458",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "all sports",
+            "topic": "",
+            "turn_no": "459"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:458",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I think the US Olympics would mirror the sports in the International Summer Olympics",
+            "topic": "",
+            "turn_no": "460"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Acknowledge",
+            "link_to": "Nicole:459",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "461"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "but it would have to be the warmer weather sports, right?",
+            "topic": "",
+            "turn_no": "462"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessicaf:462",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "skiing, ice luging, etc... are out",
+            "topic": "",
+            "turn_no": "463"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessicaf:462",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "yes absolutely",
+            "topic": "",
+            "turn_no": "464"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "jessicaf:462",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "well only the summer ones yea",
+            "topic": "",
+            "turn_no": "465"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:458",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "the usually summer olypics stuff\\",
+            "topic": "",
+            "turn_no": "466"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "http://en.wikipedia.org/wiki/Summer_Olympic_Games#A_new_millennium",
+            "topic": "",
+            "turn_no": "467"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "What about \"American Football\"",
+            "topic": "",
+            "turn_no": "468"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "dk:468",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "prob not",
+            "topic": "",
+            "turn_no": "469"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "Nicole:469",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Really?",
+            "topic": "",
+            "turn_no": "470"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "dk:470",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "The current football leagues probably wouldn't want that competition for fans",
+            "topic": "",
+            "turn_no": "471"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:470",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "they already have their own thing going own",
+            "topic": "",
+            "turn_no": "472"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "Nicole:472",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "called the superbowl",
+            "topic": "",
+            "turn_no": "473"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "Nicole:472",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "I don't know if that should have anything to do with it though",
+            "topic": "",
+            "turn_no": "474"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "Nicole:473",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "475"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Signal-Non-Understanding",
+            "link_to": "jessamyn:475",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "?",
+            "topic": "",
+            "turn_no": "476"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Well any sports could be included",
+            "topic": "",
+            "turn_no": "477"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:477",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Or a totally new set of sports",
+            "topic": "",
+            "turn_no": "478"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:478",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yes, i guess if they wanted",
+            "topic": "",
+            "turn_no": "479"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "maybe nfl players wouldnt compete.. but others could",
+            "topic": "",
+            "turn_no": "480"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:480",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "That's true",
+            "topic": "",
+            "turn_no": "481"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "What about the regular person who plays football",
+            "topic": "",
+            "turn_no": "482"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:480",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "yeah",
+            "topic": "",
+            "turn_no": "483"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:480",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "yea",
+            "topic": "",
+            "turn_no": "484"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Baseball is on the list",
+            "topic": "",
+            "turn_no": "485"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "anyone can compete, weve established",
+            "topic": "",
+            "turn_no": "486"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Correct-Misspelling",
+            "link_to": "Nicole:486",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "this",
+            "topic": "",
+            "turn_no": "487"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "I just meant I dont think the nfl not wanting attention taken from the superbowl should have any effect on it",
+            "topic": "",
+            "turn_no": "488"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:488",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "it doesn't",
+            "topic": "",
+            "turn_no": "489"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:489",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "but they probably want to spend time with their families",
+            "topic": "",
+            "turn_no": "490"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Should more importance be put on the average player?",
+            "topic": "",
+            "turn_no": "491"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:491",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "yes",
+            "topic": "",
+            "turn_no": "492"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "Nicole:490",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "rather then join another competition",
+            "topic": "",
+            "turn_no": "493"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:491",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "i think so",
+            "topic": "",
+            "turn_no": "494"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "by doing what?",
+            "topic": "",
+            "turn_no": "495"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "danielle:495",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "I mean in the sense \"anyone\" can play so it wouldn't be all the big name stars",
+            "topic": "",
+            "turn_no": "496"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "what does this have to do with choosing where the summer olympics should be held?",
+            "topic": "",
+            "turn_no": "497"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:496",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "and then the final game would be people from around the country",
+            "topic": "",
+            "turn_no": "498"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "Nicole:497",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Well we finished that part",
+            "topic": "",
+            "turn_no": "499"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "are we suppose to be discussing weather, travel and accomodations",
+            "topic": "",
+            "turn_no": "500"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "dk:499",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "ok",
+            "topic": "",
+            "turn_no": "501"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:499",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "now we are discussing anything",
+            "topic": "",
+            "turn_no": "502"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "dk:502",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "lol ok",
+            "topic": "",
+            "turn_no": "503"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I think we decided on Chicago",
+            "topic": "Chicago",
+            "turn_no": "504"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:502",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "filling time i guess you could say",
+            "topic": "",
+            "turn_no": "505"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "dk:505",
+            "polarity": "",
+            "speaker": "dk",
+            "text": ";-)",
+            "topic": "",
+            "turn_no": "506"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "dk:506",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "507"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I can't think of any other factor that would affect decision of Chicago",
+            "topic": "Chicago",
+            "turn_no": "508"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "we def didn't need this much time for this particular topic",
+            "topic": "",
+            "turn_no": "509"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Who says we bring back tug-o-war!",
+            "topic": "",
+            "turn_no": "510"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:510",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "not at all, this completely strayed",
+            "topic": "",
+            "turn_no": "511"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "we're good discusser!",
+            "topic": "",
+            "turn_no": "512"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "color wars!",
+            "topic": "",
+            "turn_no": "513"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Information-Request",
+            "link_to": "Nicole:513",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "color wars?",
+            "topic": "",
+            "turn_no": "514"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "Nicole:513",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "summer camp?",
+            "topic": "",
+            "turn_no": "515"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "danielle:515",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yes",
+            "topic": "",
+            "turn_no": "516"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "Nicole:516",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "haha",
+            "topic": "",
+            "turn_no": "517"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "steal the flag",
+            "topic": "",
+            "turn_no": "518"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "Nicole:518",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Capture the flag?",
+            "topic": "",
+            "turn_no": "519"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "dk:519",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "520"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "kick the can",
+            "topic": "",
+            "turn_no": "521"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:519",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "that's what i meant lol",
+            "topic": "",
+            "turn_no": "522"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "seances",
+            "topic": "",
+            "turn_no": "523"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "duck duck goose",
+            "topic": "",
+            "turn_no": "524"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "red rover",
+            "topic": "",
+            "turn_no": "525"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "read light green light lol",
+            "topic": "",
+            "turn_no": "526"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "ilspersonnel2",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "simon says",
+            "topic": "",
+            "turn_no": "527"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "mother may i",
+            "topic": "",
+            "turn_no": "528"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "marco polo",
+            "topic": "",
+            "turn_no": "529"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "dodgeball",
+            "topic": "",
+            "turn_no": "530"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "hide and seek",
+            "topic": "",
+            "turn_no": "531"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "kickball",
+            "topic": "",
+            "turn_no": "532"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "monkey in the middle",
+            "topic": "",
+            "turn_no": "533"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "softball",
+            "topic": "",
+            "turn_no": "534"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "ultimate frisbee",
+            "topic": "",
+            "turn_no": "535"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "frisbee golf",
+            "topic": "",
+            "turn_no": "536"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "rugby",
+            "topic": "",
+            "turn_no": "537"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "538"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Confirmation-Request",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "There is a frisbee game now in the International Summer Olympics, isn't there?",
+            "topic": "",
+            "turn_no": "539"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "all these sports should be included",
+            "topic": "",
+            "turn_no": "540"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I know there is beach volleyball",
+            "topic": "",
+            "turn_no": "541"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Disagree-Reject",
+            "link_to": "carol:539",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "not seeing it on the wikipedia page",
+            "topic": "",
+            "turn_no": "542"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Another reason for Chicago. The beaches!",
+            "topic": "Chicago",
+            "turn_no": "543"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Non-Answer",
+            "link_to": "carol:539",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i don't know",
+            "topic": "",
+            "turn_no": "544"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "carol",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "do they have beaches?",
+            "topic": "Chicago",
+            "turn_no": "545"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "danielle:545",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Yes, on the lake",
+            "topic": "Chicago",
+            "turn_no": "546"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "carol:546",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "ahh",
+            "topic": "",
+            "turn_no": "547"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "But I think for the beach volleyball games, they need \"clean\" sand. That is, no broken shells to possibly cut athlete's feet",
+            "topic": "",
+            "turn_no": "548"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:548",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "truck in sand",
+            "topic": "",
+            "turn_no": "549"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "dk:549",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "or play on a closed court",
+            "topic": "",
+            "turn_no": "550"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:549",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yea",
+            "topic": "",
+            "turn_no": "551"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:550",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "Yea idk if they necessarily need to be on the beach anyway..",
+            "topic": "",
+            "turn_no": "552"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "they mightu se their own sand",
+            "topic": "",
+            "turn_no": "553"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "jessamyn:553",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "filter sand",
+            "topic": "",
+            "turn_no": "554"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "box ball",
+            "topic": "",
+            "turn_no": "555"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Okay five minutes to go.",
+            "topic": "",
+            "turn_no": "556"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "Hi all, as we near the end, I wanted to remind everyone to fill out the survey at the end. http://scil.ils.albany.edu/survey_groupb.html",
+            "topic": "",
+            "turn_no": "557"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "I vote for Chicago.",
+            "topic": "Chicago",
+            "turn_no": "558"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:558",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "same",
+            "topic": "Chicago",
+            "turn_no": "559"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:558",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Chicago",
+            "topic": "Chicago",
+            "turn_no": "560"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Agree-Accept",
+            "link_to": "Nicole:559",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "Chicago all the way!",
+            "topic": "Chicago",
+            "turn_no": "561"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:558",
+            "polarity": "",
+            "speaker": "jessamyn",
+            "text": "chicago",
+            "topic": "Chicago",
+            "turn_no": "562"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "danielle",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Danielle?",
+            "topic": "",
+            "turn_no": "563"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Information-Request",
+            "link_to": "jessicaf+danielle",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "danielle, jessicaf?",
+            "topic": "",
+            "turn_no": "564"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:564",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "chicago",
+            "topic": "Chicago",
+            "turn_no": "565"
+        },
+        {
+            "comm_act_type": "continuation-of",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "jessicaf:565",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "sorry lol",
+            "topic": "",
+            "turn_no": "566"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Response-Answer",
+            "link_to": "dk:564",
+            "polarity": "",
+            "speaker": "danielle",
+            "text": "yep chicago",
+            "topic": "Chicago",
+            "turn_no": "567"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "Well then Chicago it is",
+            "topic": "Chicago",
+            "turn_no": "568"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "This was a very interesting discussion lol",
+            "topic": "",
+            "turn_no": "569"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:569",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "yes",
+            "topic": "",
+            "turn_no": "570"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "good work all! :-D",
+            "topic": "",
+            "turn_no": "571"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "dk:571",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "i agree",
+            "topic": "",
+            "turn_no": "572"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Enjoyed it.",
+            "topic": "",
+            "turn_no": "573"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:573",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "def",
+            "topic": "",
+            "turn_no": "574"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Nice consensus",
+            "topic": "",
+            "turn_no": "575"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "carol:575",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "fast consensus",
+            "topic": "",
+            "turn_no": "576"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Acknowledge",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "jessicaf",
+            "text": "yayyy",
+            "topic": "",
+            "turn_no": "577"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "2 mins!",
+            "topic": "",
+            "turn_no": "578"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "1 min!",
+            "topic": "",
+            "turn_no": "579"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "Nicole:579",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "lol",
+            "topic": "",
+            "turn_no": "580"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "no mins!",
+            "topic": "",
+            "turn_no": "581"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Assertion-Opinion",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Enjoy the real Olympics!",
+            "topic": "",
+            "turn_no": "582"
+        },
+        {
+            "comm_act_type": "response-to",
+            "dialog_act": "Agree-Accept",
+            "link_to": "carol:582",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "yes",
+            "topic": "",
+            "turn_no": "583"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "dk",
+            "text": "bye everyone",
+            "topic": "",
+            "turn_no": "584"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "carol",
+            "text": "Bye",
+            "topic": "",
+            "turn_no": "585"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Action-Directive",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "You may leave now if you want to. Please remember to fill out the survey.",
+            "topic": "",
+            "turn_no": "586"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "bye",
+            "topic": "",
+            "turn_no": "587"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "Thnx guys!",
+            "topic": "",
+            "turn_no": "588"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Other-Conventional-Phrase",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "Nicole",
+            "text": "thanks",
+            "topic": "",
+            "turn_no": "589"
+        },
+        {
+            "comm_act_type": "addressed-to",
+            "dialog_act": "Conventional-Closing",
+            "link_to": "all-users",
+            "polarity": "",
+            "speaker": "ilspersonnel2",
+            "text": "Night!",
+            "topic": "",
+            "turn_no": "590"
+        }
+    ]
+}
